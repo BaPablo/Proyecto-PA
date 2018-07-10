@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Agrupaciones>
+<Agrupacion idAgrupacion="0">
+<Nombre>Canto</Nombre>
+<Descripcion>Descripcion</Descripcion>
+<FechaInicio>2000-07-10</FechaInicio>
+</Agrupacion>
+<Agrupacion idAgrupacion="1">
+<Nombre>Table Top</Nombre>
+<Descripcion>Descripcion</Descripcion>
+<FechaInicio>2000-10-09</FechaInicio>
+</Agrupacion>
+<Agrupacion idAgrupacion="2">
+<Nombre>Linterna Magica</Nombre>
+<Descripcion>Descripcion</Descripcion>
+<FechaInicio>2000-03-28</FechaInicio>
+</Agrupacion>
+<Agrupacion idAgrupacion="3">
+<Nombre>Club de Shogi</Nombre>
+<Descripcion>Descripcion</Descripcion>
+<FechaInicio>2000-06-27</FechaInicio>
+</Agrupacion>
+<Agrupacion idAgrupacion="4">
+<Nombre>Dado de Nueve</Nombre>
+<Descripcion>Descripcion</Descripcion>
+<FechaInicio>2000-08-14</FechaInicio>
+</Agrupacion>
+<Agrupacion idAgrupacion="5">
+<Nombre>UfroCirco</Nombre>
+<Descripcion>Descripcion</Descripcion>
+<FechaInicio>2000-09-19</FechaInicio>
+</Agrupacion>
+<Agrupacion idAgrupacion="6">
+<Nombre>Orquesta</Nombre>
+<Descripcion>Descripcion</Descripcion>
+<FechaInicio>2000-05-02</FechaInicio>
+</Agrupacion>
+<Agrupacion idAgrupacion="7">
+<Nombre>Sakai no Ryu</Nombre>
+<Descripcion>Descripcion</Descripcion>
+<FechaInicio>2000-11-05</FechaInicio>
+</Agrupacion>
+<Agrupacion idAgrupacion="8">
+<Nombre>Alto Contraste</Nombre>
+<Descripcion>Descripcion</Descripcion>
+<FechaInicio>2000-04-10</FechaInicio>
+</Agrupacion>
+<Agrupacion idAgrupacion="9">
+<Nombre>Apadrina UFRO</Nombre>
+<Descripcion>Descripcion</Descripcion>
+<FechaInicio>2000-07-25</FechaInicio>
+</Agrupacion>
+<Agrupacion idAgrupacion="10">
+<Nombre>Yoga UFRO</Nombre>
+<Descripcion>Descripcion</Descripcion>
+<FechaInicio>2000-09-01</FechaInicio>
+</Agrupacion>
+<Agrupacion idAgrupacion="11">
+<Nombre>Agility</Nombre>
+<Descripcion>Descripcion</Descripcion>
+<FechaInicio>2000-09-23</FechaInicio>
+</Agrupacion>
+<Agrupacion idAgrupacion="12">
+<Nombre>Dance4Life</Nombre>
+<Descripcion>Descripcion</Descripcion>
+<FechaInicio>2000-04-09</FechaInicio>
+</Agrupacion>
+</Agrupaciones>

@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Fechas>
+<Fecha idFechas="0">
+<FechaInicio>2017-04-30</FechaInicio>
+<FechaTermino>2017-03-19</FechaTermino>
+<TiempoInicio>03:25:04</TiempoInicio>
+<TiempoTermino>08:44:33</TiempoTermino>
+</Fecha>
+<Fecha idFechas="1">
+<FechaInicio>2017-03-21</FechaInicio>
+<FechaTermino>2017-04-27</FechaTermino>
+<TiempoInicio>00:01:18</TiempoInicio>
+<TiempoTermino>06:46:59</TiempoTermino>
+</Fecha>
+<Fecha idFechas="2">
+<FechaInicio>2017-04-12</FechaInicio>
+<FechaTermino>2017-04-14</FechaTermino>
+<TiempoInicio>18:49:09</TiempoInicio>
+<TiempoTermino>19:59:48</TiempoTermino>
+</Fecha>
+<Fecha idFechas="3">
+<FechaInicio>2017-05-06</FechaInicio>
+<FechaTermino>2017-06-12</FechaTermino>
+<TiempoInicio>22:51:52</TiempoInicio>
+<TiempoTermino>09:45:34</TiempoTermino>
+</Fecha>
+<Fecha idFechas="4">
+<FechaInicio>2017-04-25</FechaInicio>
+<FechaTermino>2017-05-23</FechaTermino>
+<TiempoInicio>07:48:36</TiempoInicio>
+<TiempoTermino>10:00:28</TiempoTermino>
+</Fecha>
+<Fecha idFechas="5">
+<FechaInicio>2017-04-21</FechaInicio>
+<FechaTermino>2017-06-20</FechaTermino>
+<TiempoInicio>07:04:10</TiempoInicio>
+<TiempoTermino>13:31:35</TiempoTermino>
+</Fecha>
+<Fecha idFechas="6">
+<FechaInicio>2017-06-11</FechaInicio>
+<FechaTermino>2017-03-14</FechaTermino>
+<TiempoInicio>10:17:37</TiempoInicio>
+<TiempoTermino>06:36:17</TiempoTermino>
+</Fecha>
+<Fecha idFechas="7">
+<FechaInicio>2017-04-10</FechaInicio>
+<FechaTermino>2017-05-14</FechaTermino>
+<TiempoInicio>01:42:44</TiempoInicio>
+<TiempoTermino>14:11:01</TiempoTermino>
+</Fecha>
+<Fecha idFechas="8">
+<FechaInicio>2017-04-01</FechaInicio>
+<FechaTermino>2017-03-30</FechaTermino>
+<TiempoInicio>02:05:46</TiempoInicio>
+<TiempoTermino>00:10:31</TiempoTermino>
+</Fecha>
+<Fecha idFechas="9">
+<FechaInicio>2017-06-21</FechaInicio>
+<FechaTermino>2017-04-01</FechaTermino>
+<TiempoInicio>21:41:43</TiempoInicio>
+<TiempoTermino>23:48:32</TiempoTermino>
+</Fecha>
+<Fecha idFechas="10">
+<FechaInicio>2017-06-15</FechaInicio>
+<FechaTermino>2017-03-21</FechaTermino>
+<TiempoInicio>03:01:18</TiempoInicio>
+<TiempoTermino>17:36:07</TiempoTermino>
+</Fecha>
+<Fecha idFechas="11">
+<FechaInicio>2017-06-07</FechaInicio>
+<FechaTermino>2017-05-14</FechaTermino>
+<TiempoInicio>21:26:22</TiempoInicio>
+<TiempoTermino>03:08:16</TiempoTermino>
+</Fecha>
+<Fecha idFechas="12">
+<FechaInicio>2017-04-22</FechaInicio>
+<FechaTermino>2017-06-03</FechaTermino>
+<TiempoInicio>00:17:25</TiempoInicio>
+<TiempoTermino>16:03:10</TiempoTermino>
+</Fecha>
+<Fecha idFechas="13">
+<FechaInicio>2017-06-24</FechaInicio>
+<FechaTermino>2017-05-17</FechaTermino>
+<TiempoInicio>01:15:14</TiempoInicio>
+<TiempoTermino>06:04:56</TiempoTermino>
+</Fecha>
+<Fecha idFechas="14">
+<FechaInicio>2017-06-10</FechaInicio>
+<FechaTermino>2017-06-01</FechaTermino>
+<TiempoInicio>01:18:10</TiempoInicio>
+<TiempoTermino>13:45:31</TiempoTermino>
+</Fecha>
+<Fecha idFechas="15">
+<FechaInicio>2017-04-04</FechaInicio>
+<FechaTermino>2017-05-13</FechaTermino>
+<TiempoInicio>05:49:46</TiempoInicio>
+<TiempoTermino>11:55:42</TiempoTermino>
+</Fecha>
+<Fecha idFechas="16">
+<FechaInicio>2017-06-09</FechaInicio>
+<FechaTermino>2017-05-08</FechaTermino>
+<TiempoInicio>11:58:56</TiempoInicio>
+<TiempoTermino>14:58:13</TiempoTermino>
+</Fecha>
+<Fecha idFechas="17">
+<FechaInicio>2017-03-28</FechaInicio>
+<FechaTermino>2017-05-03</FechaTermino>
+<TiempoInicio>02:03:01</TiempoInicio>
+<TiempoTermino>06:46:45</TiempoTermino>
+</Fecha>
+<Fecha idFechas="18">
+<FechaInicio>2017-03-25</FechaInicio>
+<FechaTermino>2017-06-25</FechaTermino>
+<TiempoInicio>19:14:46</TiempoInicio>
+<TiempoTermino>15:27:57</TiempoTermino>
+</Fecha>
+<Fecha idFechas="19">
+<FechaInicio>2017-05-28</FechaInicio>
+<FechaTermino>2017-05-08</FechaTermino>
+<TiempoInicio>23:13:01</TiempoInicio>
+<TiempoTermino>01:11:57</TiempoTermino>
+</Fecha>
+<Fecha idFechas="20">
+<FechaInicio>2017-05-29</FechaInicio>
+<FechaTermino>2017-06-10</FechaTermino>
+<TiempoInicio>00:45:55</TiempoInicio>
+<TiempoTermino>10:29:08</TiempoTermino>
+</Fecha>
+<Fecha idFechas="21">
+<FechaInicio>2017-03-19</FechaInicio>
+<FechaTermino>2017-06-25</FechaTermino>
+<TiempoInicio>17:12:50</TiempoInicio>
+<TiempoTermino>21:14:19</TiempoTermino>
+</Fecha>
+<Fecha idFechas="22">
+<FechaInicio>2017-04-16</FechaInicio>
+<FechaTermino>2017-03-20</FechaTermino>
+<TiempoInicio>04:21:04</TiempoInicio>
+<TiempoTermino>14:48:40</TiempoTermino>
+</Fecha>
+<Fecha idFechas="23">
+<FechaInicio>2017-04-29</FechaInicio>
+<FechaTermino>2017-06-10</FechaTermino>
+<TiempoInicio>07:06:42</TiempoInicio>
+<TiempoTermino>08:25:27</TiempoTermino>
+</Fecha>
+<Fecha idFechas="24">
+<FechaInicio>2017-06-16</FechaInicio>
+<FechaTermino>2017-03-30</FechaTermino>
+<TiempoInicio>04:16:01</TiempoInicio>
+<TiempoTermino>00:22:53</TiempoTermino>
+</Fecha>
+<Fecha idFechas="25">
+<FechaInicio>2017-05-12</FechaInicio>
+<FechaTermino>2017-04-09</FechaTermino>
+<TiempoInicio>10:35:26</TiempoInicio>
+<TiempoTermino>02:33:41</TiempoTermino>
+</Fecha>
+<Fecha idFechas="26">
+<FechaInicio>2017-05-01</FechaInicio>
+<FechaTermino>2017-05-26</FechaTermino>
+<TiempoInicio>19:44:21</TiempoInicio>
+<TiempoTermino>07:10:54</TiempoTermino>
+</Fecha>
+<Fecha idFechas="27">
+<FechaInicio>2017-03-31</FechaInicio>
+<FechaTermino>2017-03-22</FechaTermino>
+<TiempoInicio>19:34:38</TiempoInicio>
+<TiempoTermino>14:18:57</TiempoTermino>
+</Fecha>
+<Fecha idFechas="28">
+<FechaInicio>2017-03-21</FechaInicio>
+<FechaTermino>2017-04-27</FechaTermino>
+<TiempoInicio>07:15:27</TiempoInicio>
+<TiempoTermino>19:29:07</TiempoTermino>
+</Fecha>
+<Fecha idFechas="29">
+<FechaInicio>2017-06-22</FechaInicio>
+<FechaTermino>2017-06-16</FechaTermino>
+<TiempoInicio>06:45:39</TiempoInicio>
+<TiempoTermino>14:48:07</TiempoTermino>
+</Fecha>
+<Fecha idFechas="30">
+<FechaInicio>2017-04-19</FechaInicio>
+<FechaTermino>2017-04-08</FechaTermino>
+<TiempoInicio>08:35:21</TiempoInicio>
+<TiempoTermino>18:20:36</TiempoTermino>
+</Fecha>
+<Fecha idFechas="31">
+<FechaInicio>2017-04-17</FechaInicio>
+<FechaTermino>2017-06-07</FechaTermino>
+<TiempoInicio>15:38:57</TiempoInicio>
+<TiempoTermino>09:33:49</TiempoTermino>
+</Fecha>
+<Fecha idFechas="32">
+<FechaInicio>2017-06-15</FechaInicio>
+<FechaTermino>2017-03-14</FechaTermino>
+<TiempoInicio>20:35:21</TiempoInicio>
+<TiempoTermino>18:08:29</TiempoTermino>
+</Fecha>
+<Fecha idFechas="33">
+<FechaInicio>2017-05-06</FechaInicio>
+<FechaTermino>2017-05-15</FechaTermino>
+<TiempoInicio>22:47:16</TiempoInicio>
+<TiempoTermino>19:20:42</TiempoTermino>
+</Fecha>
+<Fecha idFechas="34">
+<FechaInicio>2017-04-17</FechaInicio>
+<FechaTermino>2017-05-07</FechaTermino>
+<TiempoInicio>20:57:10</TiempoInicio>
+<TiempoTermino>13:20:10</TiempoTermino>
+</Fecha>
+<Fecha idFechas="35">
+<FechaInicio>2017-05-05</FechaInicio>
+<FechaTermino>2017-06-16</FechaTermino>
+<TiempoInicio>12:40:00</TiempoInicio>
+<TiempoTermino>02:11:10</TiempoTermino>
+</Fecha>
+<Fecha idFechas="36">
+<FechaInicio>2017-03-22</FechaInicio>
+<FechaTermino>2017-03-14</FechaTermino>
+<TiempoInicio>16:21:22</TiempoInicio>
+<TiempoTermino>16:06:00</TiempoTermino>
+</Fecha>
+<Fecha idFechas="37">
+<FechaInicio>2017-06-13</FechaInicio>
+<FechaTermino>2017-03-20</FechaTermino>
+<TiempoInicio>12:23:33</TiempoInicio>
+<TiempoTermino>13:48:43</TiempoTermino>
+</Fecha>
+<Fecha idFechas="38">
+<FechaInicio>2017-06-13</FechaInicio>
+<FechaTermino>2017-06-12</FechaTermino>
+<TiempoInicio>05:40:58</TiempoInicio>
+<TiempoTermino>06:36:22</TiempoTermino>
+</Fecha>
+<Fecha idFechas="39">
+<FechaInicio>2017-04-19</FechaInicio>
+<FechaTermino>2017-04-28</FechaTermino>
+<TiempoInicio>22:43:05</TiempoInicio>
+<TiempoTermino>20:59:11</TiempoTermino>
+</Fecha>
+<Fecha idFechas="40">
+<FechaInicio>2017-04-17</FechaInicio>
+<FechaTermino>2017-04-08</FechaTermino>
+<TiempoInicio>01:30:43</TiempoInicio>
+<TiempoTermino>06:01:27</TiempoTermino>
+</Fecha>
+<Fecha idFechas="41">
+<FechaInicio>2017-05-12</FechaInicio>
+<FechaTermino>2017-06-14</FechaTermino>
+<TiempoInicio>08:36:08</TiempoInicio>
+<TiempoTermino>11:46:31</TiempoTermino>
+</Fecha>
+<Fecha idFechas="42">
+<FechaInicio>2017-05-16</FechaInicio>
+<FechaTermino>2017-05-20</FechaTermino>
+<TiempoInicio>10:42:05</TiempoInicio>
+<TiempoTermino>19:37:55</TiempoTermino>
+</Fecha>
+<Fecha idFechas="43">
+<FechaInicio>2017-03-24</FechaInicio>
+<FechaTermino>2017-05-23</FechaTermino>
+<TiempoInicio>00:57:59</TiempoInicio>
+<TiempoTermino>21:46:01</TiempoTermino>
+</Fecha>
+<Fecha idFechas="44">
+<FechaInicio>2017-06-05</FechaInicio>
+<FechaTermino>2017-05-08</FechaTermino>
+<TiempoInicio>17:16:54</TiempoInicio>
+<TiempoTermino>14:45:47</TiempoTermino>
+</Fecha>
+<Fecha idFechas="45">
+<FechaInicio>2017-03-27</FechaInicio>
+<FechaTermino>2017-05-06</FechaTermino>
+<TiempoInicio>23:22:22</TiempoInicio>
+<TiempoTermino>01:02:19</TiempoTermino>
+</Fecha>
+<Fecha idFechas="46">
+<FechaInicio>2017-06-11</FechaInicio>
+<FechaTermino>2017-04-20</FechaTermino>
+<TiempoInicio>16:50:50</TiempoInicio>
+<TiempoTermino>01:41:01</TiempoTermino>
+</Fecha>
+<Fecha idFechas="47">
+<FechaInicio>2017-05-11</FechaInicio>
+<FechaTermino>2017-06-08</FechaTermino>
+<TiempoInicio>12:03:45</TiempoInicio>
+<TiempoTermino>21:22:05</TiempoTermino>
+</Fecha>
+<Fecha idFechas="48">
+<FechaInicio>2017-03-27</FechaInicio>
+<FechaTermino>2017-03-24</FechaTermino>
+<TiempoInicio>21:06:26</TiempoInicio>
+<TiempoTermino>07:21:42</TiempoTermino>
+</Fecha>
+<Fecha idFechas="49">
+<FechaInicio>2017-05-29</FechaInicio>
+<FechaTermino>2017-04-16</FechaTermino>
+<TiempoInicio>20:31:51</TiempoInicio>
+<TiempoTermino>18:14:40</TiempoTermino>
+</Fecha>
+<Fecha idFechas="50">
+<FechaInicio>2017-05-10</FechaInicio>
+<FechaTermino>2017-04-11</FechaTermino>
+<TiempoInicio>06:54:52</TiempoInicio>
+<TiempoTermino>10:33:15</TiempoTermino>
+</Fecha>
+<Fecha idFechas="51">
+<FechaInicio>2017-06-15</FechaInicio>
+<FechaTermino>2017-05-04</FechaTermino>
+<TiempoInicio>04:36:38</TiempoInicio>
+<TiempoTermino>07:54:38</TiempoTermino>
+</Fecha>
+<Fecha idFechas="52">
+<FechaInicio>2017-05-13</FechaInicio>
+<FechaTermino>2017-06-12</FechaTermino>
+<TiempoInicio>18:12:16</TiempoInicio>
+<TiempoTermino>11:18:22</TiempoTermino>
+</Fecha>
+<Fecha idFechas="53">
+<FechaInicio>2017-05-09</FechaInicio>
+<FechaTermino>2017-05-15</FechaTermino>
+<TiempoInicio>19:03:33</TiempoInicio>
+<TiempoTermino>05:20:50</TiempoTermino>
+</Fecha>
+<Fecha idFechas="54">
+<FechaInicio>2017-05-14</FechaInicio>
+<FechaTermino>2017-04-10</FechaTermino>
+<TiempoInicio>08:29:19</TiempoInicio>
+<TiempoTermino>20:24:13</TiempoTermino>
+</Fecha>
+<Fecha idFechas="55">
+<FechaInicio>2017-03-24</FechaInicio>
+<FechaTermino>2017-04-15</FechaTermino>
+<TiempoInicio>02:50:34</TiempoInicio>
+<TiempoTermino>12:42:13</TiempoTermino>
+</Fecha>
+<Fecha idFechas="56">
+<FechaInicio>2017-06-09</FechaInicio>
+<FechaTermino>2017-06-22</FechaTermino>
+<TiempoInicio>16:02:14</TiempoInicio>
+<TiempoTermino>22:53:46</TiempoTermino>
+</Fecha>
+<Fecha idFechas="57">
+<FechaInicio>2017-06-13</FechaInicio>
+<FechaTermino>2017-05-26</FechaTermino>
+<TiempoInicio>04:33:43</TiempoInicio>
+<TiempoTermino>16:59:31</TiempoTermino>
+</Fecha>
+<Fecha idFechas="58">
+<FechaInicio>2017-03-15</FechaInicio>
+<FechaTermino>2017-03-27</FechaTermino>
+<TiempoInicio>14:05:10</TiempoInicio>
+<TiempoTermino>05:45:07</TiempoTermino>
+</Fecha>
+<Fecha idFechas="59">
+<FechaInicio>2017-06-23</FechaInicio>
+<FechaTermino>2017-04-08</FechaTermino>
+<TiempoInicio>13:40:02</TiempoInicio>
+<TiempoTermino>00:07:43</TiempoTermino>
+</Fecha>
+<Fecha idFechas="60">
+<FechaInicio>2017-06-07</FechaInicio>
+<FechaTermino>2017-06-06</FechaTermino>
+<TiempoInicio>05:02:59</TiempoInicio>
+<TiempoTermino>05:08:07</TiempoTermino>
+</Fecha>
+<Fecha idFechas="61">
+<FechaInicio>2017-06-04</FechaInicio>
+<FechaTermino>2017-05-12</FechaTermino>
+<TiempoInicio>03:40:10</TiempoInicio>
+<TiempoTermino>16:22:59</TiempoTermino>
+</Fecha>
+<Fecha idFechas="62">
+<FechaInicio>2017-03-19</FechaInicio>
+<FechaTermino>2017-05-30</FechaTermino>
+<TiempoInicio>14:28:37</TiempoInicio>
+<TiempoTermino>15:52:53</TiempoTermino>
+</Fecha>
+<Fecha idFechas="63">
+<FechaInicio>2017-05-16</FechaInicio>
+<FechaTermino>2017-06-13</FechaTermino>
+<TiempoInicio>07:42:44</TiempoInicio>
+<TiempoTermino>02:56:22</TiempoTermino>
+</Fecha>
+<Fecha idFechas="64">
+<FechaInicio>2017-05-09</FechaInicio>
+<FechaTermino>2017-06-03</FechaTermino>
+<TiempoInicio>08:41:59</TiempoInicio>
+<TiempoTermino>15:14:46</TiempoTermino>
+</Fecha>
+<Fecha idFechas="65">
+<FechaInicio>2017-06-17</FechaInicio>
+<FechaTermino>2017-04-25</FechaTermino>
+<TiempoInicio>16:03:54</TiempoInicio>
+<TiempoTermino>10:39:01</TiempoTermino>
+</Fecha>
+<Fecha idFechas="66">
+<FechaInicio>2017-04-16</FechaInicio>
+<FechaTermino>2017-04-20</FechaTermino>
+<TiempoInicio>09:42:30</TiempoInicio>
+<TiempoTermino>01:48:21</TiempoTermino>
+</Fecha>
+<Fecha idFechas="67">
+<FechaInicio>2017-04-12</FechaInicio>
+<FechaTermino>2017-06-20</FechaTermino>
+<TiempoInicio>15:53:17</TiempoInicio>
+<TiempoTermino>16:00:49</TiempoTermino>
+</Fecha>
+<Fecha idFechas="68">
+<FechaInicio>2017-06-14</FechaInicio>
+<FechaTermino>2017-03-29</FechaTermino>
+<TiempoInicio>20:10:13</TiempoInicio>
+<TiempoTermino>10:10:36</TiempoTermino>
+</Fecha>
+<Fecha idFechas="69">
+<FechaInicio>2017-06-03</FechaInicio>
+<FechaTermino>2017-05-14</FechaTermino>
+<TiempoInicio>10:35:07</TiempoInicio>
+<TiempoTermino>11:14:44</TiempoTermino>
+</Fecha>
+<Fecha idFechas="70">
+<FechaInicio>2017-06-20</FechaInicio>
+<FechaTermino>2017-06-09</FechaTermino>
+<TiempoInicio>02:34:49</TiempoInicio>
+<TiempoTermino>21:40:50</TiempoTermino>
+</Fecha>
+<Fecha idFechas="71">
+<FechaInicio>2017-04-26</FechaInicio>
+<FechaTermino>2017-03-15</FechaTermino>
+<TiempoInicio>14:06:26</TiempoInicio>
+<TiempoTermino>11:49:48</TiempoTermino>
+</Fecha>
+<Fecha idFechas="72">
+<FechaInicio>2017-06-24</FechaInicio>
+<FechaTermino>2017-05-22</FechaTermino>
+<TiempoInicio>15:24:01</TiempoInicio>
+<TiempoTermino>06:37:39</TiempoTermino>
+</Fecha>
+<Fecha idFechas="73">
+<FechaInicio>2017-05-01</FechaInicio>
+<FechaTermino>2017-03-28</FechaTermino>
+<TiempoInicio>22:57:02</TiempoInicio>
+<TiempoTermino>20:00:22</TiempoTermino>
+</Fecha>
+<Fecha idFechas="74">
+<FechaInicio>2017-04-27</FechaInicio>
+<FechaTermino>2017-05-10</FechaTermino>
+<TiempoInicio>16:56:26</TiempoInicio>
+<TiempoTermino>12:11:37</TiempoTermino>
+</Fecha>
+<Fecha idFechas="75">
+<FechaInicio>2017-03-16</FechaInicio>
+<FechaTermino>2017-03-26</FechaTermino>
+<TiempoInicio>10:32:56</TiempoInicio>
+<TiempoTermino>03:09:32</TiempoTermino>
+</Fecha>
+<Fecha idFechas="76">
+<FechaInicio>2017-04-26</FechaInicio>
+<FechaTermino>2017-03-28</FechaTermino>
+<TiempoInicio>11:02:01</TiempoInicio>
+<TiempoTermino>23:38:28</TiempoTermino>
+</Fecha>
+<Fecha idFechas="77">
+<FechaInicio>2017-04-14</FechaInicio>
+<FechaTermino>2017-04-06</FechaTermino>
+<TiempoInicio>20:05:21</TiempoInicio>
+<TiempoTermino>01:12:46</TiempoTermino>
+</Fecha>
+<Fecha idFechas="78">
+<FechaInicio>2017-03-22</FechaInicio>
+<FechaTermino>2017-04-02</FechaTermino>
+<TiempoInicio>00:32:37</TiempoInicio>
+<TiempoTermino>16:52:48</TiempoTermino>
+</Fecha>
+<Fecha idFechas="79">
+<FechaInicio>2017-05-23</FechaInicio>
+<FechaTermino>2017-04-20</FechaTermino>
+<TiempoInicio>03:27:42</TiempoInicio>
+<TiempoTermino>02:40:25</TiempoTermino>
+</Fecha>
+</Fechas>

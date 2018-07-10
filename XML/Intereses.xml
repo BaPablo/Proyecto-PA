@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Intereses>
+<Interes idInteres="0">
+<Nombre>Escultura</Nombre>
+<Descripcion>Descripcion</Descripcion>
+</Interes>
+<Interes idInteres="1">
+<Nombre>Puzzles</Nombre>
+<Descripcion>Descripcion</Descripcion>
+</Interes>
+<Interes idInteres="2">
+<Nombre>Cocinar</Nombre>
+<Descripcion>Descripcion</Descripcion>
+</Interes>
+<Interes idInteres="3">
+<Nombre>Leer</Nombre>
+<Descripcion>Descripcion</Descripcion>
+</Interes>
+<Interes idInteres="4">
+<Nombre>Juego de Mesa</Nombre>
+<Descripcion>Descripcion</Descripcion>
+</Interes>
+<Interes idInteres="5">
+<Nombre>Cosplay</Nombre>
+<Descripcion>Descripcion</Descripcion>
+</Interes>
+<Interes idInteres="6">
+<Nombre>Dance</Nombre>
+<Descripcion>Descripcion</Descripcion>
+</Interes>
+<Interes idInteres="7">
+<Nombre>Dbujar</Nombre>
+<Descripcion>Descripcion</Descripcion>
+</Interes>
+<Interes idInteres="8">
+<Nombre>Colorear</Nombre>
+<Descripcion>Descripcion</Descripcion>
+</Interes>
+<Interes idInteres="9">
+<Nombre>Yoga</Nombre>
+<Descripcion>Descripcion</Descripcion>
+</Interes>
+<Interes idInteres="10">
+<Nombre>Tallado</Nombre>
+<Descripcion>Descripcion</Descripcion>
+</Interes>
+<Interes idInteres="11">
+<Nombre>Criptografia</Nombre>
+<Descripcion>Descripcion</Descripcion>
+</Interes>
+<Interes idInteres="12">
+<Nombre>Origami</Nombre>
+<Descripcion>Descripcion</Descripcion>
+</Interes>
+<Interes idInteres="13">
+<Nombre>Puzzle de palabras</Nombre>
+<Descripcion>Descripcion</Descripcion>
+</Interes>
+<Interes idInteres="14">
+<Nombre>Arqueria</Nombre>
+<Descripcion>Descripcion</Descripcion>
+</Interes>
+<Interes idInteres="15">
+<Nombre>Observar aves</Nombre>
+<Descripcion>Descripcion</Descripcion>
+</Interes>
+<Interes idInteres="16">
+<Nombre>Correr</Nombre>
+<Descripcion>Descripcion</Descripcion>
+</Interes>
+<Interes idInteres="17">
+<Nombre>Astronomia</Nombre>
+<Descripcion>Descripcion</Descripcion>
+</Interes>
+<Interes idInteres="18">
+<Nombre>Acampar</Nombre>
+<Descripcion>Descripcion</Descripcion>
+</Interes>
+<Interes idInteres="19">
+<Nombre>Cazar Fantasmas</Nombre>
+<Descripcion>Descripcion</Descripcion>
+</Interes>
+<Interes idInteres="20">
+<Nombre>Natacion</Nombre>
+<Descripcion>Descripcion</Descripcion>
+</Interes>
+</Intereses>

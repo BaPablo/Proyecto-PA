@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Asignaturas>
+<Asignatura idAsignatura="0">
+<Nombre>Programacion</Nombre>
+<HorasIntraAula>6</HorasIntraAula>
+<HorasExtraAula>4</HorasExtraAula>
+<Duracion>1</Duracion>
+<Creditos>6</Creditos>
+<Descripcion>Descripcion</Descripcion>
+<AprendizajeEsperado>AprendizajeEsperado</AprendizajeEsperado>
+<LibrosRecomendados>Libros Recomendados</LibrosRecomendados>
+<Semestre>1</Semestre>
+<Anio>2015</Anio>
+</Asignatura>
+<Asignatura idAsignatura="1">
+<Nombre>Programacion Avanzada</Nombre>
+<HorasIntraAula>6</HorasIntraAula>
+<HorasExtraAula>4</HorasExtraAula>
+<Duracion>1</Duracion>
+<Creditos>6</Creditos>
+<Descripcion>Descripcion</Descripcion>
+<AprendizajeEsperado>AprendizajeEsperado</AprendizajeEsperado>
+<LibrosRecomendados>Libros Recomendados</LibrosRecomendados>
+<Semestre>1</Semestre>
+<Anio>2015</Anio>
+</Asignatura>
+<Asignatura idAsignatura="2">
+<Nombre>Base de Datos I</Nombre>
+<HorasIntraAula>1</HorasIntraAula>
+<HorasExtraAula>3</HorasExtraAula>
+<Duracion>1</Duracion>
+<Creditos>6</Creditos>
+<Descripcion>Descripcion</Descripcion>
+<AprendizajeEsperado>AprendizajeEsperado</AprendizajeEsperado>
+<LibrosRecomendados>Libros Recomendados</LibrosRecomendados>
+<Semestre>1</Semestre>
+<Anio>2015</Anio>
+</Asignatura>
+<Asignatura idAsignatura="3">
+<Nombre>Base de Datos II</Nombre>
+<HorasIntraAula>1</HorasIntraAula>
+<HorasExtraAula>6</HorasExtraAula>
+<Duracion>1</Duracion>
+<Creditos>6</Creditos>
+<Descripcion>Descripcion</Descripcion>
+<AprendizajeEsperado>AprendizajeEsperado</AprendizajeEsperado>
+<LibrosRecomendados>Libros Recomendados</LibrosRecomendados>
+<Semestre>1</Semestre>
+<Anio>2015</Anio>
+</Asignatura>
+<Asignatura idAsignatura="4">
+<Nombre>Redes de Computadores</Nombre>
+<HorasIntraAula>1</HorasIntraAula>
+<HorasExtraAula>1</HorasExtraAula>
+<Duracion>1</Duracion>
+<Creditos>6</Creditos>
+<Descripcion>Descripcion</Descripcion>
+<AprendizajeEsperado>AprendizajeEsperado</AprendizajeEsperado>
+<LibrosRecomendados>Libros Recomendados</LibrosRecomendados>
+<Semestre>1</Semestre>
+<Anio>2015</Anio>
+</Asignatura>
+<Asignatura idAsignatura="5">
+<Nombre>Taller de Redes</Nombre>
+<HorasIntraAula>3</HorasIntraAula>
+<HorasExtraAula>3</HorasExtraAula>
+<Duracion>1</Duracion>
+<Creditos>6</Creditos>
+<Descripcion>Descripcion</Descripcion>
+<AprendizajeEsperado>AprendizajeEsperado</AprendizajeEsperado>
+<LibrosRecomendados>Libros Recomendados</LibrosRecomendados>
+<Semestre>1</Semestre>
+<Anio>2015</Anio>
+</Asignatura>
+<Asignatura idAsignatura="6">
+<Nombre>Ingenieria de Software</Nombre>
+<HorasIntraAula>5</HorasIntraAula>
+<HorasExtraAula>3</HorasExtraAula>
+<Duracion>1</Duracion>
+<Creditos>6</Creditos>
+<Descripcion>Descripcion</Descripcion>
+<AprendizajeEsperado>AprendizajeEsperado</AprendizajeEsperado>
+<LibrosRecomendados>Libros Recomendados</LibrosRecomendados>
+<Semestre>1</Semestre>
+<Anio>2015</Anio>
+</Asignatura>
+<Asignatura idAsignatura="7">
+<Nombre>Programacion de Computadores</Nombre>
+<HorasIntraAula>6</HorasIntraAula>
+<HorasExtraAula>2</HorasExtraAula>
+<Duracion>1</Duracion>
+<Creditos>6</Creditos>
+<Descripcion>Descripcion</Descripcion>
+<AprendizajeEsperado>AprendizajeEsperado</AprendizajeEsperado>
+<LibrosRecomendados>Libros Recomendados</LibrosRecomendados>
+<Semestre>1</Semestre>
+<Anio>2015</Anio>
+</Asignatura>
+<Asignatura idAsignatura="8">
+<Nombre>Sistemas Operativos</Nombre>
+<HorasIntraAula>6</HorasIntraAula>
+<HorasExtraAula>4</HorasExtraAula>
+<Duracion>1</Duracion>
+<Creditos>6</Creditos>
+<Descripcion>Descripcion</Descripcion>
+<AprendizajeEsperado>AprendizajeEsperado</AprendizajeEsperado>
+<LibrosRecomendados>Libros Recomendados</LibrosRecomendados>
+<Semestre>1</Semestre>
+<Anio>2015</Anio>
+</Asignatura>
+<Asignatura idAsignatura="9">
+<Nombre>Fisica I</Nombre>
+<HorasIntraAula>6</HorasIntraAula>
+<HorasExtraAula>1</HorasExtraAula>
+<Duracion>1</Duracion>
+<Creditos>6</Creditos>
+<Descripcion>Descripcion</Descripcion>
+<AprendizajeEsperado>AprendizajeEsperado</AprendizajeEsperado>
+<LibrosRecomendados>Libros Recomendados</LibrosRecomendados>
+<Semestre>1</Semestre>
+<Anio>2015</Anio>
+</Asignatura>
+<Asignatura idAsignatura="10">
+<Nombre>Fisica II</Nombre>
+<HorasIntraAula>5</HorasIntraAula>
+<HorasExtraAula>5</HorasExtraAula>
+<Duracion>1</Duracion>
+<Creditos>6</Creditos>
+<Descripcion>Descripcion</Descripcion>
+<AprendizajeEsperado>AprendizajeEsperado</AprendizajeEsperado>
+<LibrosRecomendados>Libros Recomendados</LibrosRecomendados>
+<Semestre>1</Semestre>
+<Anio>2015</Anio>
+</Asignatura>
+<Asignatura idAsignatura="11">
+<Nombre>Calculo de una variable</Nombre>
+<HorasIntraAula>6</HorasIntraAula>
+<HorasExtraAula>2</HorasExtraAula>
+<Duracion>1</Duracion>
+<Creditos>6</Creditos>
+<Descripcion>Descripcion</Descripcion>
+<AprendizajeEsperado>AprendizajeEsperado</AprendizajeEsperado>
+<LibrosRecomendados>Libros Recomendados</LibrosRecomendados>
+<Semestre>1</Semestre>
+<Anio>2015</Anio>
+</Asignatura>
+<Asignatura idAsignatura="12">
+<Nombre>Ciencias de la Computacion I</Nombre>
+<HorasIntraAula>1</HorasIntraAula>
+<HorasExtraAula>2</HorasExtraAula>
+<Duracion>1</Duracion>
+<Creditos>6</Creditos>
+<Descripcion>Descripcion</Descripcion>
+<AprendizajeEsperado>AprendizajeEsperado</AprendizajeEsperado>
+<LibrosRecomendados>Libros Recomendados</LibrosRecomendados>
+<Semestre>1</Semestre>
+<Anio>2015</Anio>
+</Asignatura>
+<Asignatura idAsignatura="13">
+<Nombre>Ciencias de la Computacion II</Nombre>
+<HorasIntraAula>4</HorasIntraAula>
+<HorasExtraAula>4</HorasExtraAula>
+<Duracion>1</Duracion>
+<Creditos>6</Creditos>
+<Descripcion>Descripcion</Descripcion>
+<AprendizajeEsperado>AprendizajeEsperado</AprendizajeEsperado>
+<LibrosRecomendados>Libros Recomendados</LibrosRecomendados>
+<Semestre>1</Semestre>
+<Anio>2015</Anio>
+</Asignatura>
+<Asignatura idAsignatura="14">
+<Nombre>Metodos Numericos</Nombre>
+<HorasIntraAula>6</HorasIntraAula>
+<HorasExtraAula>2</HorasExtraAula>
+<Duracion>1</Duracion>
+<Creditos>6</Creditos>
+<Descripcion>Descripcion</Descripcion>
+<AprendizajeEsperado>AprendizajeEsperado</AprendizajeEsperado>
+<LibrosRecomendados>Libros Recomendados</LibrosRecomendados>
+<Semestre>1</Semestre>
+<Anio>2015</Anio>
+</Asignatura>
+<Asignatura idAsignatura="15">
+<Nombre>Probabilidad y Estadistica</Nombre>
+<HorasIntraAula>1</HorasIntraAula>
+<HorasExtraAula>2</HorasExtraAula>
+<Duracion>1</Duracion>
+<Creditos>6</Creditos>
+<Descripcion>Descripcion</Descripcion>
+<AprendizajeEsperado>AprendizajeEsperado</AprendizajeEsperado>
+<LibrosRecomendados>Libros Recomendados</LibrosRecomendados>
+<Semestre>1</Semestre>
+<Anio>2015</Anio>
+</Asignatura>
+<Asignatura idAsignatura="16">
+<Nombre>Estructura de Datos</Nombre>
+<HorasIntraAula>3</HorasIntraAula>
+<HorasExtraAula>6</HorasExtraAula>
+<Duracion>1</Duracion>
+<Creditos>6</Creditos>
+<Descripcion>Descripcion</Descripcion>
+<AprendizajeEsperado>AprendizajeEsperado</AprendizajeEsperado>
+<LibrosRecomendados>Libros Recomendados</LibrosRecomendados>
+<Semestre>1</Semestre>
+<Anio>2015</Anio>
+</Asignatura>
+<Asignatura idAsignatura="17">
+<Nombre>Electivo I</Nombre>
+<HorasIntraAula>6</HorasIntraAula>
+<HorasExtraAula>1</HorasExtraAula>
+<Duracion>1</Duracion>
+<Creditos>6</Creditos>
+<Descripcion>Descripcion</Descripcion>
+<AprendizajeEsperado>AprendizajeEsperado</AprendizajeEsperado>
+<LibrosRecomendados>Libros Recomendados</LibrosRecomendados>
+<Semestre>1</Semestre>
+<Anio>2015</Anio>
+</Asignatura>
+<Asignatura idAsignatura="18">
+<Nombre>Electivo II</Nombre>
+<HorasIntraAula>1</HorasIntraAula>
+<HorasExtraAula>1</HorasExtraAula>
+<Duracion>1</Duracion>
+<Creditos>6</Creditos>
+<Descripcion>Descripcion</Descripcion>
+<AprendizajeEsperado>AprendizajeEsperado</AprendizajeEsperado>
+<LibrosRecomendados>Libros Recomendados</LibrosRecomendados>
+<Semestre>1</Semestre>
+<Anio>2015</Anio>
+</Asignatura>
+</Asignaturas>

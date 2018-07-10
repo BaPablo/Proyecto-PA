@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Lugares>
+<Lugar idLugar="0">
+<NombreLugar>A-101</NombreLugar>
+</Lugar>
+<Lugar idLugar="1">
+<NombreLugar>A-102</NombreLugar>
+</Lugar>
+<Lugar idLugar="2">
+<NombreLugar>A-103</NombreLugar>
+</Lugar>
+<Lugar idLugar="3">
+<NombreLugar>A-104</NombreLugar>
+</Lugar>
+<Lugar idLugar="4">
+<NombreLugar>B-101</NombreLugar>
+</Lugar>
+<Lugar idLugar="5">
+<NombreLugar>B-102</NombreLugar>
+</Lugar>
+<Lugar idLugar="6">
+<NombreLugar>B-103</NombreLugar>
+</Lugar>
+<Lugar idLugar="7">
+<NombreLugar>B-104</NombreLugar>
+</Lugar>
+<Lugar idLugar="8">
+<NombreLugar>C-101</NombreLugar>
+</Lugar>
+<Lugar idLugar="9">
+<NombreLugar>C-102</NombreLugar>
+</Lugar>
+<Lugar idLugar="10">
+<NombreLugar>C-103</NombreLugar>
+</Lugar>
+<Lugar idLugar="11">
+<NombreLugar>C-104</NombreLugar>
+</Lugar>
+<Lugar idLugar="12">
+<NombreLugar>D-101</NombreLugar>
+</Lugar>
+<Lugar idLugar="13">
+<NombreLugar>D-102</NombreLugar>
+</Lugar>
+<Lugar idLugar="14">
+<NombreLugar>D-103</NombreLugar>
+</Lugar>
+<Lugar idLugar="15">
+<NombreLugar>D-104</NombreLugar>
+</Lugar>
+<Lugar idLugar="16">
+<NombreLugar>E-101</NombreLugar>
+</Lugar>
+<Lugar idLugar="17">
+<NombreLugar>E-102</NombreLugar>
+</Lugar>
+<Lugar idLugar="18">
+<NombreLugar>E-103</NombreLugar>
+</Lugar>
+<Lugar idLugar="19">
+<NombreLugar>E-104</NombreLugar>
+</Lugar>
+<Lugar idLugar="20">
+<NombreLugar>Fuera de clases</NombreLugar>
+</Lugar>
+</Lugares>

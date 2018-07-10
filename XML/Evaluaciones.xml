@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Evaluaciones>
+<Evaluacion idEvaluacion="0">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Prueba</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="1">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Trabajo</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="2">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Tarea</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="3">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Trabajo</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="4">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Prueba</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="5">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Tarea</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="6">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Prueba</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="7">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Prueba</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="8">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Trabajo</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="9">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Prueba</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="10">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Prueba</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="11">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Prueba</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="12">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Trabajo</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="13">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Prueba</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="14">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Prueba</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="15">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Tarea</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="16">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Trabajo</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="17">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Prueba</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="18">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Tarea</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="19">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Prueba</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="20">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Tarea</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="21">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Tarea</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="22">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Trabajo</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="23">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Trabajo</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="24">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Prueba</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="25">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Prueba</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="26">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Prueba</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="27">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Trabajo</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="28">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Prueba</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="29">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Prueba</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="30">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Trabajo</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="31">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Prueba</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="32">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Prueba</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="33">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Tarea</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="34">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Trabajo</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="35">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Trabajo</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="36">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Tarea</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="37">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Tarea</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="38">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Prueba</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="39">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Tarea</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="40">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Prueba</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="41">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Trabajo</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="42">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Tarea</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="43">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Tarea</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="44">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Prueba</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="45">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Tarea</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="46">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Tarea</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="47">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Prueba</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="48">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Tarea</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="49">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Prueba</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="50">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Tarea</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="51">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Tarea</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="52">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Prueba</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="53">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Tarea</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="54">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Tarea</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="55">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Trabajo</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="56">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Prueba</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="57">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Tarea</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="58">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Tarea</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="59">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Tarea</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="60">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Prueba</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="61">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Prueba</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="62">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Prueba</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="63">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Tarea</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="64">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Tarea</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="65">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Prueba</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="66">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Trabajo</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="67">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Tarea</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="68">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Prueba</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="69">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Tarea</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="70">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Prueba</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="71">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Prueba</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="72">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Trabajo</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="73">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Trabajo</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="74">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Tarea</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="75">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Trabajo</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="76">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Tarea</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="77">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Trabajo</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="78">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Trabajo</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+<Evaluacion idEvaluacion="79">
+<Nombre>ORM</Nombre>
+<TipoEvaluacion>Trabajo</TipoEvaluacion>
+<Descripcion>Evaluación de ORM y XML</Descripcion>
+<Calificacion>4</Calificacion>
+</Evaluacion>
+</Evaluaciones>

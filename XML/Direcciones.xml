@@ -1,0 +1,3503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Direcciones>
+<Direccion idDireccion="0">
+<Calle>Pedro Montt 2</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="1">
+<Calle>Manuel Balmaceda 2</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="2">
+<Calle>E. Ramirez 2</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="3">
+<Calle>21 de Mayo 1</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="4">
+<Calle>Pedro Montt 4</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="5">
+<Calle>E. Ramirez 3</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="6">
+<Calle>Francisco Salazar 2</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="7">
+<Calle>Las Heras 4</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="8">
+<Calle>E. Ramirez 3</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="9">
+<Calle>Manuel Bulnes 2</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="10">
+<Calle>E. Ramirez 4</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="11">
+<Calle>Manuel Rodriguez 5</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="12">
+<Calle>Candela 3</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="13">
+<Calle>Manuel Rodriguez 4</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="14">
+<Calle>Martinez de Rosas 2</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="15">
+<Calle>Manuel Rodriguez 2</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="16">
+<Calle>Manuel Balmaceda 5</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="17">
+<Calle>Las Heras 5</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="18">
+<Calle>Anibal Pinto 5</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="19">
+<Calle>Manuel Bulnes 1</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="20">
+<Calle>Francisco Salazar 1</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="21">
+<Calle>Las Heras 3</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="22">
+<Calle>Francisco Salazar 5</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="23">
+<Calle>21 de Mayo 2</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="24">
+<Calle>Manuel Balmaceda 2</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="25">
+<Calle>Martinez de Rosas 4</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="26">
+<Calle>Manuel Rodriguez 4</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="27">
+<Calle>Manuel Balmaceda 2</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="28">
+<Calle>Manuel Rodriguez 5</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="29">
+<Calle>Manuel Rodriguez 1</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="30">
+<Calle>Las Heras 4</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="31">
+<Calle>Manuel Rodriguez 3</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="32">
+<Calle>Francisco Salazar 2</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="33">
+<Calle>Francisco Salazar 3</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="34">
+<Calle>Martinez de Rosas 2</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="35">
+<Calle>Manuel Balmaceda 4</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="36">
+<Calle>Manuel Rodriguez 2</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="37">
+<Calle>Martinez de Rosas 3</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="38">
+<Calle>Caupolican 4</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="39">
+<Calle>Las Heras 5</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="40">
+<Calle>Anibal Pinto 3</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="41">
+<Calle>E. Ramirez 3</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="42">
+<Calle>Candela 1</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="43">
+<Calle>E. Ramirez 3</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="44">
+<Calle>Pedro Montt 4</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="45">
+<Calle>Francisco Salazar 4</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="46">
+<Calle>Manuel Rodriguez 4</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="47">
+<Calle>21 de Mayo 3</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="48">
+<Calle>Manuel Bulnes 2</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="49">
+<Calle>Caupolican 5</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="50">
+<Calle>Pedro Montt 5</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="51">
+<Calle>Anibal Pinto 4</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="52">
+<Calle>Manuel Rodriguez 4</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="53">
+<Calle>Manuel Bulnes 5</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="54">
+<Calle>Manuel Balmaceda 3</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="55">
+<Calle>Anibal Pinto 2</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="56">
+<Calle>Martinez de Rosas 4</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="57">
+<Calle>Martinez de Rosas 5</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="58">
+<Calle>Manuel Rodriguez 1</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="59">
+<Calle>Candela 4</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="60">
+<Calle>Francisco Salazar 4</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="61">
+<Calle>Manuel Balmaceda 2</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="62">
+<Calle>Las Heras 5</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="63">
+<Calle>Pedro Montt 3</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="64">
+<Calle>Pedro Montt 1</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="65">
+<Calle>Anibal Pinto 2</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="66">
+<Calle>21 de Mayo 3</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="67">
+<Calle>Anibal Pinto 3</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="68">
+<Calle>Manuel Balmaceda 2</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="69">
+<Calle>21 de Mayo 4</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="70">
+<Calle>Martinez de Rosas 1</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="71">
+<Calle>Anibal Pinto 4</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="72">
+<Calle>21 de Mayo 3</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="73">
+<Calle>Manuel Rodriguez 1</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="74">
+<Calle>Manuel Balmaceda 4</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="75">
+<Calle>Candela 5</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="76">
+<Calle>Anibal Pinto 2</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="77">
+<Calle>Manuel Balmaceda 5</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="78">
+<Calle>Candela 1</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="79">
+<Calle>Francisco Salazar 1</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="80">
+<Calle>Francisco Salazar 4</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="81">
+<Calle>Manuel Bulnes 3</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="82">
+<Calle>Pedro Montt 5</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="83">
+<Calle>E. Ramirez 5</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="84">
+<Calle>Candela 5</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="85">
+<Calle>Pedro Montt 5</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="86">
+<Calle>Martinez de Rosas 1</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="87">
+<Calle>Candela 2</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="88">
+<Calle>Caupolican 1</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="89">
+<Calle>Candela 5</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="90">
+<Calle>E. Ramirez 5</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="91">
+<Calle>Anibal Pinto 4</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="92">
+<Calle>Candela 3</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="93">
+<Calle>21 de Mayo 1</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="94">
+<Calle>Manuel Bulnes 1</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="95">
+<Calle>Candela 4</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="96">
+<Calle>Francisco Salazar 3</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="97">
+<Calle>Candela 2</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="98">
+<Calle>Pedro Montt 5</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="99">
+<Calle>Manuel Bulnes 3</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="100">
+<Calle>Anibal Pinto 2</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="101">
+<Calle>Manuel Bulnes 4</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="102">
+<Calle>Caupolican 1</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="103">
+<Calle>E. Ramirez 4</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="104">
+<Calle>Caupolican 4</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="105">
+<Calle>Manuel Balmaceda 1</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="106">
+<Calle>21 de Mayo 5</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="107">
+<Calle>Anibal Pinto 5</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="108">
+<Calle>Las Heras 4</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="109">
+<Calle>Manuel Rodriguez 2</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="110">
+<Calle>Las Heras 5</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="111">
+<Calle>Anibal Pinto 2</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="112">
+<Calle>Martinez de Rosas 2</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="113">
+<Calle>Candela 4</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="114">
+<Calle>Francisco Salazar 1</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="115">
+<Calle>Anibal Pinto 4</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="116">
+<Calle>Martinez de Rosas 1</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="117">
+<Calle>Manuel Rodriguez 1</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="118">
+<Calle>Manuel Rodriguez 4</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="119">
+<Calle>Candela 2</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="120">
+<Calle>Caupolican 5</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="121">
+<Calle>Manuel Bulnes 2</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="122">
+<Calle>Anibal Pinto 2</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="123">
+<Calle>Francisco Salazar 4</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="124">
+<Calle>Caupolican 3</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="125">
+<Calle>21 de Mayo 5</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="126">
+<Calle>Martinez de Rosas 3</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="127">
+<Calle>Martinez de Rosas 1</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="128">
+<Calle>Las Heras 2</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="129">
+<Calle>Manuel Bulnes 2</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="130">
+<Calle>21 de Mayo 5</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="131">
+<Calle>Anibal Pinto 2</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="132">
+<Calle>Las Heras 4</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="133">
+<Calle>E. Ramirez 3</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="134">
+<Calle>Manuel Balmaceda 5</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="135">
+<Calle>21 de Mayo 1</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="136">
+<Calle>Anibal Pinto 3</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="137">
+<Calle>Candela 3</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="138">
+<Calle>Manuel Rodriguez 1</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="139">
+<Calle>Manuel Rodriguez 4</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="140">
+<Calle>Pedro Montt 5</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="141">
+<Calle>Caupolican 1</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="142">
+<Calle>Manuel Balmaceda 5</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="143">
+<Calle>Martinez de Rosas 4</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="144">
+<Calle>Manuel Balmaceda 2</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="145">
+<Calle>Martinez de Rosas 5</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="146">
+<Calle>Las Heras 4</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="147">
+<Calle>Manuel Bulnes 2</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="148">
+<Calle>Anibal Pinto 4</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="149">
+<Calle>Manuel Rodriguez 2</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="150">
+<Calle>Anibal Pinto 5</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="151">
+<Calle>Caupolican 5</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="152">
+<Calle>Martinez de Rosas 3</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="153">
+<Calle>Francisco Salazar 3</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="154">
+<Calle>Pedro Montt 4</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="155">
+<Calle>Martinez de Rosas 1</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="156">
+<Calle>E. Ramirez 3</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="157">
+<Calle>Francisco Salazar 5</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="158">
+<Calle>Manuel Balmaceda 4</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="159">
+<Calle>Las Heras 1</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="160">
+<Calle>Manuel Rodriguez 2</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="161">
+<Calle>Candela 1</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="162">
+<Calle>Martinez de Rosas 1</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="163">
+<Calle>21 de Mayo 4</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="164">
+<Calle>Martinez de Rosas 2</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="165">
+<Calle>Las Heras 4</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="166">
+<Calle>Manuel Rodriguez 3</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="167">
+<Calle>Pedro Montt 1</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="168">
+<Calle>Anibal Pinto 1</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="169">
+<Calle>Manuel Bulnes 5</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="170">
+<Calle>Las Heras 3</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="171">
+<Calle>Francisco Salazar 1</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="172">
+<Calle>Candela 5</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="173">
+<Calle>E. Ramirez 2</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="174">
+<Calle>Pedro Montt 2</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="175">
+<Calle>Manuel Rodriguez 2</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="176">
+<Calle>Candela 3</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="177">
+<Calle>Manuel Bulnes 2</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="178">
+<Calle>Pedro Montt 2</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="179">
+<Calle>E. Ramirez 5</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="180">
+<Calle>Pedro Montt 4</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="181">
+<Calle>Manuel Balmaceda 3</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="182">
+<Calle>Manuel Rodriguez 4</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="183">
+<Calle>Martinez de Rosas 1</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="184">
+<Calle>Las Heras 2</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="185">
+<Calle>Martinez de Rosas 4</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="186">
+<Calle>E. Ramirez 5</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="187">
+<Calle>Manuel Bulnes 2</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="188">
+<Calle>E. Ramirez 4</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="189">
+<Calle>Manuel Bulnes 2</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="190">
+<Calle>21 de Mayo 4</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="191">
+<Calle>Manuel Bulnes 3</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="192">
+<Calle>E. Ramirez 3</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="193">
+<Calle>Las Heras 5</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="194">
+<Calle>Francisco Salazar 4</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="195">
+<Calle>Manuel Rodriguez 4</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="196">
+<Calle>Manuel Rodriguez 4</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="197">
+<Calle>Candela 4</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="198">
+<Calle>Martinez de Rosas 5</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="199">
+<Calle>Manuel Bulnes 1</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="200">
+<Calle>Candela 2</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="201">
+<Calle>Manuel Balmaceda 5</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="202">
+<Calle>Pedro Montt 4</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="203">
+<Calle>Martinez de Rosas 5</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="204">
+<Calle>Manuel Balmaceda 4</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="205">
+<Calle>Manuel Balmaceda 5</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="206">
+<Calle>Las Heras 4</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="207">
+<Calle>Candela 3</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="208">
+<Calle>Manuel Balmaceda 1</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="209">
+<Calle>Candela 4</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="210">
+<Calle>Manuel Bulnes 4</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="211">
+<Calle>Martinez de Rosas 4</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="212">
+<Calle>Francisco Salazar 4</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="213">
+<Calle>Manuel Bulnes 5</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="214">
+<Calle>E. Ramirez 3</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="215">
+<Calle>Manuel Bulnes 3</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="216">
+<Calle>Caupolican 3</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="217">
+<Calle>Martinez de Rosas 5</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="218">
+<Calle>Candela 3</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="219">
+<Calle>Las Heras 3</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="220">
+<Calle>E. Ramirez 2</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="221">
+<Calle>Manuel Bulnes 5</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="222">
+<Calle>Francisco Salazar 4</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="223">
+<Calle>21 de Mayo 1</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="224">
+<Calle>Martinez de Rosas 3</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="225">
+<Calle>Manuel Balmaceda 1</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="226">
+<Calle>Francisco Salazar 1</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="227">
+<Calle>Candela 2</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="228">
+<Calle>E. Ramirez 3</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="229">
+<Calle>Caupolican 5</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="230">
+<Calle>Manuel Bulnes 4</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="231">
+<Calle>Pedro Montt 5</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="232">
+<Calle>Pedro Montt 5</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="233">
+<Calle>Manuel Rodriguez 5</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="234">
+<Calle>Manuel Balmaceda 2</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="235">
+<Calle>Manuel Bulnes 4</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="236">
+<Calle>Pedro Montt 3</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="237">
+<Calle>Candela 3</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="238">
+<Calle>Manuel Rodriguez 3</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="239">
+<Calle>Martinez de Rosas 5</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="240">
+<Calle>Manuel Rodriguez 5</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="241">
+<Calle>Anibal Pinto 5</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="242">
+<Calle>Manuel Balmaceda 2</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="243">
+<Calle>Martinez de Rosas 2</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="244">
+<Calle>Manuel Bulnes 4</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="245">
+<Calle>E. Ramirez 3</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="246">
+<Calle>21 de Mayo 5</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="247">
+<Calle>Pedro Montt 2</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="248">
+<Calle>Caupolican 4</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="249">
+<Calle>Caupolican 1</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="250">
+<Calle>Caupolican 2</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="251">
+<Calle>Manuel Rodriguez 3</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="252">
+<Calle>21 de Mayo 2</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="253">
+<Calle>Candela 4</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="254">
+<Calle>Manuel Rodriguez 3</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="255">
+<Calle>Francisco Salazar 3</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="256">
+<Calle>Pedro Montt 2</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="257">
+<Calle>E. Ramirez 5</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="258">
+<Calle>Candela 5</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="259">
+<Calle>21 de Mayo 2</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="260">
+<Calle>Manuel Balmaceda 1</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="261">
+<Calle>Candela 2</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="262">
+<Calle>Martinez de Rosas 1</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="263">
+<Calle>Caupolican 5</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="264">
+<Calle>Manuel Balmaceda 5</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="265">
+<Calle>Las Heras 2</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="266">
+<Calle>Pedro Montt 4</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="267">
+<Calle>Las Heras 2</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="268">
+<Calle>Las Heras 2</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="269">
+<Calle>Martinez de Rosas 1</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="270">
+<Calle>Francisco Salazar 2</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="271">
+<Calle>Martinez de Rosas 2</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="272">
+<Calle>Manuel Balmaceda 2</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="273">
+<Calle>Caupolican 3</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="274">
+<Calle>E. Ramirez 1</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="275">
+<Calle>Caupolican 3</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="276">
+<Calle>E. Ramirez 1</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="277">
+<Calle>Pedro Montt 3</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="278">
+<Calle>Manuel Balmaceda 3</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="279">
+<Calle>Manuel Rodriguez 2</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="280">
+<Calle>Las Heras 3</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="281">
+<Calle>E. Ramirez 1</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="282">
+<Calle>Francisco Salazar 3</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="283">
+<Calle>Martinez de Rosas 2</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="284">
+<Calle>Las Heras 5</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="285">
+<Calle>Las Heras 4</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="286">
+<Calle>Candela 1</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="287">
+<Calle>E. Ramirez 1</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="288">
+<Calle>Candela 1</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="289">
+<Calle>Candela 1</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="290">
+<Calle>E. Ramirez 5</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="291">
+<Calle>Manuel Rodriguez 3</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="292">
+<Calle>Las Heras 5</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="293">
+<Calle>Martinez de Rosas 3</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="294">
+<Calle>Caupolican 3</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="295">
+<Calle>Caupolican 5</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="296">
+<Calle>E. Ramirez 3</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="297">
+<Calle>Caupolican 3</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="298">
+<Calle>Las Heras 4</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="299">
+<Calle>Manuel Rodriguez 4</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="300">
+<Calle>Candela 5</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="301">
+<Calle>Manuel Balmaceda 2</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="302">
+<Calle>Manuel Bulnes 3</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="303">
+<Calle>21 de Mayo 2</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="304">
+<Calle>Pedro Montt 5</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="305">
+<Calle>21 de Mayo 4</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="306">
+<Calle>Manuel Bulnes 2</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="307">
+<Calle>Manuel Rodriguez 2</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="308">
+<Calle>Martinez de Rosas 5</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="309">
+<Calle>Las Heras 1</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="310">
+<Calle>E. Ramirez 2</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="311">
+<Calle>21 de Mayo 1</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="312">
+<Calle>Anibal Pinto 4</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="313">
+<Calle>Manuel Rodriguez 3</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="314">
+<Calle>Las Heras 3</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="315">
+<Calle>Francisco Salazar 4</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="316">
+<Calle>E. Ramirez 5</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="317">
+<Calle>Martinez de Rosas 5</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="318">
+<Calle>Manuel Rodriguez 1</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="319">
+<Calle>E. Ramirez 1</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="320">
+<Calle>Caupolican 1</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="321">
+<Calle>Caupolican 5</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="322">
+<Calle>Candela 1</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="323">
+<Calle>Martinez de Rosas 2</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="324">
+<Calle>E. Ramirez 3</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="325">
+<Calle>Caupolican 3</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="326">
+<Calle>Martinez de Rosas 3</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="327">
+<Calle>Candela 2</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="328">
+<Calle>Anibal Pinto 1</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="329">
+<Calle>Francisco Salazar 4</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="330">
+<Calle>Caupolican 2</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="331">
+<Calle>Pedro Montt 5</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="332">
+<Calle>Martinez de Rosas 5</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="333">
+<Calle>Manuel Rodriguez 2</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="334">
+<Calle>Anibal Pinto 2</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="335">
+<Calle>Las Heras 3</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="336">
+<Calle>Anibal Pinto 1</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="337">
+<Calle>E. Ramirez 4</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="338">
+<Calle>Anibal Pinto 5</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="339">
+<Calle>Francisco Salazar 3</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="340">
+<Calle>Manuel Balmaceda 2</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="341">
+<Calle>E. Ramirez 2</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="342">
+<Calle>Francisco Salazar 2</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="343">
+<Calle>21 de Mayo 4</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="344">
+<Calle>Las Heras 3</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="345">
+<Calle>Pedro Montt 1</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="346">
+<Calle>Caupolican 2</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="347">
+<Calle>Manuel Rodriguez 5</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="348">
+<Calle>Las Heras 5</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="349">
+<Calle>21 de Mayo 1</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="350">
+<Calle>Las Heras 4</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="351">
+<Calle>E. Ramirez 2</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="352">
+<Calle>Martinez de Rosas 4</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="353">
+<Calle>Manuel Rodriguez 5</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="354">
+<Calle>Manuel Rodriguez 2</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="355">
+<Calle>Las Heras 5</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="356">
+<Calle>Francisco Salazar 2</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="357">
+<Calle>Caupolican 4</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="358">
+<Calle>Caupolican 5</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="359">
+<Calle>E. Ramirez 2</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="360">
+<Calle>Caupolican 3</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="361">
+<Calle>Manuel Balmaceda 4</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="362">
+<Calle>Manuel Balmaceda 2</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="363">
+<Calle>Anibal Pinto 2</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="364">
+<Calle>21 de Mayo 1</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="365">
+<Calle>Candela 4</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="366">
+<Calle>Manuel Balmaceda 5</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="367">
+<Calle>Anibal Pinto 4</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="368">
+<Calle>Pedro Montt 2</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="369">
+<Calle>Candela 1</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="370">
+<Calle>Martinez de Rosas 2</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="371">
+<Calle>E. Ramirez 2</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="372">
+<Calle>Anibal Pinto 3</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="373">
+<Calle>Pedro Montt 5</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="374">
+<Calle>21 de Mayo 1</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="375">
+<Calle>Candela 1</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="376">
+<Calle>Candela 5</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="377">
+<Calle>Caupolican 1</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="378">
+<Calle>Las Heras 1</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="379">
+<Calle>Francisco Salazar 3</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="380">
+<Calle>Las Heras 3</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="381">
+<Calle>Pedro Montt 1</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="382">
+<Calle>Anibal Pinto 2</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="383">
+<Calle>Manuel Bulnes 4</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="384">
+<Calle>Manuel Rodriguez 5</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="385">
+<Calle>Manuel Bulnes 4</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="386">
+<Calle>Manuel Bulnes 5</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="387">
+<Calle>Anibal Pinto 4</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="388">
+<Calle>Las Heras 5</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="389">
+<Calle>Candela 5</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="390">
+<Calle>E. Ramirez 1</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="391">
+<Calle>Caupolican 4</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="392">
+<Calle>E. Ramirez 4</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="393">
+<Calle>Manuel Balmaceda 2</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="394">
+<Calle>Manuel Bulnes 3</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="395">
+<Calle>Las Heras 2</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="396">
+<Calle>Caupolican 4</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="397">
+<Calle>Manuel Rodriguez 1</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="398">
+<Calle>Caupolican 5</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="399">
+<Calle>Martinez de Rosas 5</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="400">
+<Calle>Anibal Pinto 2</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="401">
+<Calle>Francisco Salazar 4</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="402">
+<Calle>Manuel Bulnes 5</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="403">
+<Calle>Las Heras 5</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="404">
+<Calle>Candela 5</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="405">
+<Calle>Martinez de Rosas 2</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="406">
+<Calle>Manuel Balmaceda 5</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="407">
+<Calle>Caupolican 2</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="408">
+<Calle>Pedro Montt 4</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="409">
+<Calle>Manuel Balmaceda 4</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="410">
+<Calle>Candela 2</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="411">
+<Calle>E. Ramirez 5</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="412">
+<Calle>Manuel Balmaceda 5</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="413">
+<Calle>Manuel Balmaceda 1</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="414">
+<Calle>Anibal Pinto 5</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="415">
+<Calle>Anibal Pinto 1</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="416">
+<Calle>21 de Mayo 4</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="417">
+<Calle>Manuel Bulnes 3</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="418">
+<Calle>Martinez de Rosas 2</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="419">
+<Calle>Francisco Salazar 4</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="420">
+<Calle>E. Ramirez 4</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="421">
+<Calle>Manuel Rodriguez 1</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="422">
+<Calle>Francisco Salazar 3</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="423">
+<Calle>21 de Mayo 2</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="424">
+<Calle>Las Heras 4</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="425">
+<Calle>21 de Mayo 4</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="426">
+<Calle>Martinez de Rosas 3</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="427">
+<Calle>Pedro Montt 1</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="428">
+<Calle>Manuel Rodriguez 4</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="429">
+<Calle>Manuel Bulnes 3</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="430">
+<Calle>Caupolican 2</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="431">
+<Calle>Caupolican 1</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="432">
+<Calle>21 de Mayo 1</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="433">
+<Calle>Manuel Rodriguez 2</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="434">
+<Calle>Candela 3</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="435">
+<Calle>Las Heras 2</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="436">
+<Calle>E. Ramirez 2</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="437">
+<Calle>Anibal Pinto 5</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="438">
+<Calle>Martinez de Rosas 2</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="439">
+<Calle>Las Heras 5</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="440">
+<Calle>Anibal Pinto 4</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="441">
+<Calle>Caupolican 1</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="442">
+<Calle>Pedro Montt 3</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="443">
+<Calle>21 de Mayo 1</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="444">
+<Calle>Candela 5</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="445">
+<Calle>Candela 1</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="446">
+<Calle>Martinez de Rosas 2</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="447">
+<Calle>E. Ramirez 4</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="448">
+<Calle>E. Ramirez 3</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="449">
+<Calle>Caupolican 4</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="450">
+<Calle>Manuel Balmaceda 4</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="451">
+<Calle>Caupolican 5</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="452">
+<Calle>Las Heras 5</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="453">
+<Calle>Martinez de Rosas 3</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="454">
+<Calle>Anibal Pinto 4</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="455">
+<Calle>Martinez de Rosas 2</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="456">
+<Calle>Candela 5</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="457">
+<Calle>E. Ramirez 3</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="458">
+<Calle>Candela 5</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="459">
+<Calle>Pedro Montt 5</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="460">
+<Calle>Candela 2</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Berlín</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="461">
+<Calle>Manuel Balmaceda 4</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="462">
+<Calle>Candela 1</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="463">
+<Calle>Candela 2</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="464">
+<Calle>Las Heras 5</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="465">
+<Calle>Candela 4</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="466">
+<Calle>Manuel Bulnes 1</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Punta Arenas</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="467">
+<Calle>Las Heras 2</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="468">
+<Calle>Francisco Salazar 4</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="469">
+<Calle>Manuel Rodriguez 4</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="470">
+<Calle>Manuel Balmaceda 1</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="471">
+<Calle>Candela 4</Calle>
+<Comuna>Lautaro</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="472">
+<Calle>21 de Mayo 2</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="473">
+<Calle>Manuel Balmaceda 5</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="474">
+<Calle>Manuel Rodriguez 1</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="475">
+<Calle>Pedro Montt 1</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="476">
+<Calle>Pedro Montt 5</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="477">
+<Calle>Francisco Salazar 1</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="478">
+<Calle>Pedro Montt 3</Calle>
+<Comuna>Labranza</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="479">
+<Calle>Manuel Rodriguez 3</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Santiago</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="480">
+<Calle>Manuel Balmaceda 2</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="481">
+<Calle>Francisco Salazar 2</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="482">
+<Calle>21 de Mayo 1</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Roma</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="483">
+<Calle>Manuel Rodriguez 3</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="484">
+<Calle>Manuel Rodriguez 3</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="485">
+<Calle>Manuel Rodriguez 3</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="486">
+<Calle>21 de Mayo 4</Calle>
+<Comuna>Angol</Comuna>
+<Ciudad>Temuco</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="487">
+<Calle>Manuel Bulnes 3</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Barcelona</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="488">
+<Calle>21 de Mayo 1</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="489">
+<Calle>Anibal Pinto 3</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Puerto Montt</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="490">
+<Calle>Manuel Balmaceda 5</Calle>
+<Comuna>Victoria</Comuna>
+<Ciudad>Venecia</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="491">
+<Calle>Pedro Montt 3</Calle>
+<Comuna>Gorbea</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="492">
+<Calle>Anibal Pinto 3</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Valparaiso</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="493">
+<Calle>21 de Mayo 4</Calle>
+<Comuna>Villarica</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="494">
+<Calle>Candela 5</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Tercera Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="495">
+<Calle>21 de Mayo 1</Calle>
+<Comuna>Cunco</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Segunda Región</Region>
+<TipoDireccion>Permanente</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="496">
+<Calle>21 de Mayo 1</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Viña del Mar</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="497">
+<Calle>Anibal Pinto 3</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Osorno</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="498">
+<Calle>21 de Mayo 5</Calle>
+<Comuna>Temuco</Comuna>
+<Ciudad>Rio do Janeiro</Ciudad>
+<Region>Primera Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+<Direccion idDireccion="499">
+<Calle>21 de Mayo 4</Calle>
+<Comuna>Perquenco</Comuna>
+<Ciudad>Buenos Aires</Ciudad>
+<Region>Alguna Región</Region>
+<TipoDireccion>Estudiante</TipoDireccion>
+</Direccion>
+</Direcciones>

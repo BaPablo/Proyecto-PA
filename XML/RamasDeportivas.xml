@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Ramas>
+<Rama idRama="0">
+<Nombre>Natación</Nombre>
+<FechaInicio>2000-10-02</FechaInicio>
+<Encargado>Valentina Valenzuela</Encargado>
+<Descripcion>Descripcion</Descripcion>
+</Rama>
+<Rama idRama="1">
+<Nombre>Halterofilia</Nombre>
+<FechaInicio>2000-03-28</FechaInicio>
+<Encargado>Francisco Tapia</Encargado>
+<Descripcion>Descripcion</Descripcion>
+</Rama>
+<Rama idRama="2">
+<Nombre>Atletismo</Nombre>
+<FechaInicio>2000-04-25</FechaInicio>
+<Encargado>Pablo Munoz</Encargado>
+<Descripcion>Descripcion</Descripcion>
+</Rama>
+<Rama idRama="3">
+<Nombre>Taekwondo</Nombre>
+<FechaInicio>2000-10-11</FechaInicio>
+<Encargado>Agustin Oliveros</Encargado>
+<Descripcion>Descripcion</Descripcion>
+</Rama>
+<Rama idRama="4">
+<Nombre>Ajedrez</Nombre>
+<FechaInicio>2000-06-11</FechaInicio>
+<Encargado>Emilio Soto</Encargado>
+<Descripcion>Descripcion</Descripcion>
+</Rama>
+<Rama idRama="5">
+<Nombre>Escalada</Nombre>
+<FechaInicio>2000-08-04</FechaInicio>
+<Encargado>Martin Garrido</Encargado>
+<Descripcion>Descripcion</Descripcion>
+</Rama>
+<Rama idRama="6">
+<Nombre>Ufrocheer</Nombre>
+<FechaInicio>2000-04-03</FechaInicio>
+<Encargado>Javier Sepulveda</Encargado>
+<Descripcion>Descripcion</Descripcion>
+</Rama>
+<Rama idRama="7">
+<Nombre>Snowboard UFRO</Nombre>
+<FechaInicio>2000-06-24</FechaInicio>
+<Encargado>Daniel Gonzalez</Encargado>
+<Descripcion>Descripcion</Descripcion>
+</Rama>
+<Rama idRama="8">
+<Nombre>Karate</Nombre>
+<FechaInicio>2000-11-09</FechaInicio>
+<Encargado>Daniel Plaza</Encargado>
+<Descripcion>Descripcion</Descripcion>
+</Rama>
+<Rama idRama="9">
+<Nombre>Tenis</Nombre>
+<FechaInicio>2000-10-19</FechaInicio>
+<Encargado>Diana Contreras</Encargado>
+<Descripcion>Descripcion</Descripcion>
+</Rama>
+<Rama idRama="10">
+<Nombre>Tenis de Mesa</Nombre>
+<FechaInicio>2000-11-28</FechaInicio>
+<Encargado>Camila Rodriguez</Encargado>
+<Descripcion>Descripcion</Descripcion>
+</Rama>
+<Rama idRama="11">
+<Nombre>Judo</Nombre>
+<FechaInicio>2000-04-26</FechaInicio>
+<Encargado>Carlos Oliveros</Encargado>
+<Descripcion>Descripcion</Descripcion>
+</Rama>
+</Ramas>

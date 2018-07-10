@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Condiciones>
+<Condicion idCondicion="0">
+<Nombre>Depresion</Nombre>
+<Descripcion>Descripcion</Descripcion>
+<FechaInicio>1998-03-05</FechaInicio>
+</Condicion>
+<Condicion idCondicion="1">
+<Nombre>Normal</Nombre>
+<Descripcion>Descripcion</Descripcion>
+<FechaInicio>1998-06-27</FechaInicio>
+</Condicion>
+<Condicion idCondicion="2">
+<Nombre>Obesidad</Nombre>
+<Descripcion>Descripcion</Descripcion>
+<FechaInicio>1999-12-07</FechaInicio>
+</Condicion>
+<Condicion idCondicion="3">
+<Nombre>Asma</Nombre>
+<Descripcion>Descripcion</Descripcion>
+<FechaInicio>1998-06-01</FechaInicio>
+</Condicion>
+<Condicion idCondicion="4">
+<Nombre>Estres</Nombre>
+<Descripcion>Descripcion</Descripcion>
+<FechaInicio>1998-12-21</FechaInicio>
+</Condicion>
+<Condicion idCondicion="5">
+<Nombre>Diabetes</Nombre>
+<Descripcion>Descripcion</Descripcion>
+<FechaInicio>1999-09-10</FechaInicio>
+</Condicion>
+<Condicion idCondicion="6">
+<Nombre>Problemas Cardiacos</Nombre>
+<Descripcion>Descripcion</Descripcion>
+<FechaInicio>1998-02-06</FechaInicio>
+</Condicion>
+</Condiciones>

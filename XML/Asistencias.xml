@@ -1,0 +1,2003 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Asistencias>
+<Asistencia idAsistencia="0">
+<Fecha>2017-06-04</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="1">
+<Fecha>2017-06-22</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="2">
+<Fecha>2017-05-22</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="3">
+<Fecha>2017-05-06</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="4">
+<Fecha>2017-05-16</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="5">
+<Fecha>2017-05-21</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="6">
+<Fecha>2017-05-30</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="7">
+<Fecha>2017-04-15</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="8">
+<Fecha>2017-05-28</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="9">
+<Fecha>2017-05-06</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="10">
+<Fecha>2017-04-05</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="11">
+<Fecha>2017-06-16</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="12">
+<Fecha>2017-03-20</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="13">
+<Fecha>2017-06-08</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="14">
+<Fecha>2017-04-27</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="15">
+<Fecha>2017-06-27</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="16">
+<Fecha>2017-06-24</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="17">
+<Fecha>2017-05-26</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="18">
+<Fecha>2017-05-30</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="19">
+<Fecha>2017-03-18</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="20">
+<Fecha>2017-04-09</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="21">
+<Fecha>2017-03-26</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="22">
+<Fecha>2017-03-25</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="23">
+<Fecha>2017-05-12</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="24">
+<Fecha>2017-04-20</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="25">
+<Fecha>2017-05-08</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="26">
+<Fecha>2017-04-11</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="27">
+<Fecha>2017-05-30</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="28">
+<Fecha>2017-06-15</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="29">
+<Fecha>2017-03-27</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="30">
+<Fecha>2017-05-31</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="31">
+<Fecha>2017-06-18</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="32">
+<Fecha>2017-04-09</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="33">
+<Fecha>2017-04-18</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="34">
+<Fecha>2017-03-17</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="35">
+<Fecha>2017-05-11</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="36">
+<Fecha>2017-05-02</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="37">
+<Fecha>2017-06-29</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="38">
+<Fecha>2017-05-01</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="39">
+<Fecha>2017-06-10</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="40">
+<Fecha>2017-06-06</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="41">
+<Fecha>2017-04-24</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="42">
+<Fecha>2017-03-23</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="43">
+<Fecha>2017-04-19</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="44">
+<Fecha>2017-06-01</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="45">
+<Fecha>2017-06-12</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="46">
+<Fecha>2017-03-20</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="47">
+<Fecha>2017-06-20</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="48">
+<Fecha>2017-06-02</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="49">
+<Fecha>2017-06-23</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="50">
+<Fecha>2017-03-31</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="51">
+<Fecha>2017-05-14</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="52">
+<Fecha>2017-04-10</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="53">
+<Fecha>2017-05-07</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="54">
+<Fecha>2017-05-01</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="55">
+<Fecha>2017-06-08</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="56">
+<Fecha>2017-05-16</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="57">
+<Fecha>2017-05-14</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="58">
+<Fecha>2017-06-12</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="59">
+<Fecha>2017-05-12</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="60">
+<Fecha>2017-03-23</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="61">
+<Fecha>2017-06-26</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="62">
+<Fecha>2017-03-26</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="63">
+<Fecha>2017-06-27</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="64">
+<Fecha>2017-06-24</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="65">
+<Fecha>2017-03-19</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="66">
+<Fecha>2017-05-29</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="67">
+<Fecha>2017-03-16</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="68">
+<Fecha>2017-06-20</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="69">
+<Fecha>2017-04-11</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="70">
+<Fecha>2017-05-03</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="71">
+<Fecha>2017-06-19</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="72">
+<Fecha>2017-05-06</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="73">
+<Fecha>2017-06-17</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="74">
+<Fecha>2017-06-14</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="75">
+<Fecha>2017-05-08</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="76">
+<Fecha>2017-04-27</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="77">
+<Fecha>2017-06-21</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="78">
+<Fecha>2017-06-15</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="79">
+<Fecha>2017-06-17</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="80">
+<Fecha>2017-03-28</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="81">
+<Fecha>2017-04-30</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="82">
+<Fecha>2017-05-16</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="83">
+<Fecha>2017-04-23</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="84">
+<Fecha>2017-05-22</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="85">
+<Fecha>2017-05-02</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="86">
+<Fecha>2017-04-17</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="87">
+<Fecha>2017-05-10</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="88">
+<Fecha>2017-05-14</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="89">
+<Fecha>2017-06-17</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="90">
+<Fecha>2017-06-23</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="91">
+<Fecha>2017-03-17</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="92">
+<Fecha>2017-06-21</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="93">
+<Fecha>2017-05-14</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="94">
+<Fecha>2017-06-20</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="95">
+<Fecha>2017-05-30</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="96">
+<Fecha>2017-04-29</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="97">
+<Fecha>2017-06-13</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="98">
+<Fecha>2017-05-13</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="99">
+<Fecha>2017-03-21</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="100">
+<Fecha>2017-06-07</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="101">
+<Fecha>2017-05-13</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="102">
+<Fecha>2017-06-10</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="103">
+<Fecha>2017-04-24</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="104">
+<Fecha>2017-06-14</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="105">
+<Fecha>2017-04-25</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="106">
+<Fecha>2017-05-06</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="107">
+<Fecha>2017-06-23</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="108">
+<Fecha>2017-05-28</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="109">
+<Fecha>2017-05-02</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="110">
+<Fecha>2017-06-20</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="111">
+<Fecha>2017-04-25</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="112">
+<Fecha>2017-04-17</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="113">
+<Fecha>2017-04-01</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="114">
+<Fecha>2017-05-08</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="115">
+<Fecha>2017-04-17</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="116">
+<Fecha>2017-04-02</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="117">
+<Fecha>2017-03-15</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="118">
+<Fecha>2017-06-02</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="119">
+<Fecha>2017-06-01</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="120">
+<Fecha>2017-04-12</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="121">
+<Fecha>2017-05-28</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="122">
+<Fecha>2017-05-08</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="123">
+<Fecha>2017-04-02</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="124">
+<Fecha>2017-05-23</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="125">
+<Fecha>2017-06-19</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="126">
+<Fecha>2017-04-18</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="127">
+<Fecha>2017-05-20</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="128">
+<Fecha>2017-03-18</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="129">
+<Fecha>2017-04-07</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="130">
+<Fecha>2017-03-17</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="131">
+<Fecha>2017-06-15</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="132">
+<Fecha>2017-04-27</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="133">
+<Fecha>2017-05-27</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="134">
+<Fecha>2017-06-25</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="135">
+<Fecha>2017-04-25</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="136">
+<Fecha>2017-06-29</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="137">
+<Fecha>2017-03-29</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="138">
+<Fecha>2017-06-22</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="139">
+<Fecha>2017-06-25</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="140">
+<Fecha>2017-03-31</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="141">
+<Fecha>2017-06-18</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="142">
+<Fecha>2017-05-22</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="143">
+<Fecha>2017-03-21</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="144">
+<Fecha>2017-05-26</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="145">
+<Fecha>2017-06-11</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="146">
+<Fecha>2017-04-30</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="147">
+<Fecha>2017-03-24</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="148">
+<Fecha>2017-03-24</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="149">
+<Fecha>2017-03-29</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="150">
+<Fecha>2017-04-06</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="151">
+<Fecha>2017-04-22</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="152">
+<Fecha>2017-04-16</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="153">
+<Fecha>2017-04-13</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="154">
+<Fecha>2017-05-30</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="155">
+<Fecha>2017-04-28</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="156">
+<Fecha>2017-04-18</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="157">
+<Fecha>2017-06-26</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="158">
+<Fecha>2017-04-28</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="159">
+<Fecha>2017-06-07</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="160">
+<Fecha>2017-03-15</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="161">
+<Fecha>2017-03-29</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="162">
+<Fecha>2017-05-10</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="163">
+<Fecha>2017-06-14</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="164">
+<Fecha>2017-04-19</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="165">
+<Fecha>2017-03-28</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="166">
+<Fecha>2017-06-11</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="167">
+<Fecha>2017-06-03</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="168">
+<Fecha>2017-06-17</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="169">
+<Fecha>2017-03-26</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="170">
+<Fecha>2017-04-09</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="171">
+<Fecha>2017-05-14</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="172">
+<Fecha>2017-03-31</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="173">
+<Fecha>2017-06-25</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="174">
+<Fecha>2017-04-03</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="175">
+<Fecha>2017-06-26</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="176">
+<Fecha>2017-06-03</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="177">
+<Fecha>2017-06-17</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="178">
+<Fecha>2017-05-22</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="179">
+<Fecha>2017-06-26</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="180">
+<Fecha>2017-06-06</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="181">
+<Fecha>2017-06-24</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="182">
+<Fecha>2017-06-28</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="183">
+<Fecha>2017-06-10</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="184">
+<Fecha>2017-03-18</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="185">
+<Fecha>2017-03-19</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="186">
+<Fecha>2017-06-10</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="187">
+<Fecha>2017-05-14</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="188">
+<Fecha>2017-06-15</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="189">
+<Fecha>2017-05-03</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="190">
+<Fecha>2017-04-14</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="191">
+<Fecha>2017-05-30</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="192">
+<Fecha>2017-05-17</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="193">
+<Fecha>2017-06-27</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="194">
+<Fecha>2017-04-21</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="195">
+<Fecha>2017-04-04</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="196">
+<Fecha>2017-03-29</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="197">
+<Fecha>2017-05-15</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="198">
+<Fecha>2017-05-24</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="199">
+<Fecha>2017-04-15</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="200">
+<Fecha>2017-03-18</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="201">
+<Fecha>2017-03-24</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="202">
+<Fecha>2017-04-13</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="203">
+<Fecha>2017-04-29</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="204">
+<Fecha>2017-03-21</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="205">
+<Fecha>2017-04-01</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="206">
+<Fecha>2017-04-10</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="207">
+<Fecha>2017-05-16</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="208">
+<Fecha>2017-04-21</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="209">
+<Fecha>2017-06-15</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="210">
+<Fecha>2017-03-29</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="211">
+<Fecha>2017-05-12</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="212">
+<Fecha>2017-03-15</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="213">
+<Fecha>2017-04-05</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="214">
+<Fecha>2017-06-29</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="215">
+<Fecha>2017-04-06</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="216">
+<Fecha>2017-05-04</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="217">
+<Fecha>2017-05-24</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="218">
+<Fecha>2017-03-25</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="219">
+<Fecha>2017-05-09</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="220">
+<Fecha>2017-05-28</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="221">
+<Fecha>2017-06-10</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="222">
+<Fecha>2017-06-16</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="223">
+<Fecha>2017-06-16</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="224">
+<Fecha>2017-05-05</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="225">
+<Fecha>2017-04-19</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="226">
+<Fecha>2017-03-17</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="227">
+<Fecha>2017-05-12</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="228">
+<Fecha>2017-04-29</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="229">
+<Fecha>2017-04-19</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="230">
+<Fecha>2017-05-13</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="231">
+<Fecha>2017-05-24</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="232">
+<Fecha>2017-04-09</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="233">
+<Fecha>2017-06-10</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="234">
+<Fecha>2017-04-28</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="235">
+<Fecha>2017-03-17</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="236">
+<Fecha>2017-06-16</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="237">
+<Fecha>2017-06-12</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="238">
+<Fecha>2017-03-28</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="239">
+<Fecha>2017-03-15</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="240">
+<Fecha>2017-04-02</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="241">
+<Fecha>2017-05-17</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="242">
+<Fecha>2017-05-10</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="243">
+<Fecha>2017-04-04</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="244">
+<Fecha>2017-03-24</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="245">
+<Fecha>2017-06-29</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="246">
+<Fecha>2017-04-10</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="247">
+<Fecha>2017-06-23</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="248">
+<Fecha>2017-05-13</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="249">
+<Fecha>2017-05-14</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="250">
+<Fecha>2017-06-27</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="251">
+<Fecha>2017-05-13</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="252">
+<Fecha>2017-06-27</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="253">
+<Fecha>2017-04-11</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="254">
+<Fecha>2017-06-23</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="255">
+<Fecha>2017-03-21</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="256">
+<Fecha>2017-04-19</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="257">
+<Fecha>2017-06-14</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="258">
+<Fecha>2017-04-17</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="259">
+<Fecha>2017-05-08</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="260">
+<Fecha>2017-04-07</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="261">
+<Fecha>2017-04-17</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="262">
+<Fecha>2017-05-02</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="263">
+<Fecha>2017-04-26</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="264">
+<Fecha>2017-06-18</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="265">
+<Fecha>2017-06-26</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="266">
+<Fecha>2017-05-03</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="267">
+<Fecha>2017-03-17</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="268">
+<Fecha>2017-06-06</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="269">
+<Fecha>2017-03-20</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="270">
+<Fecha>2017-03-30</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="271">
+<Fecha>2017-05-01</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="272">
+<Fecha>2017-04-21</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="273">
+<Fecha>2017-06-09</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="274">
+<Fecha>2017-05-10</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="275">
+<Fecha>2017-05-04</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="276">
+<Fecha>2017-04-03</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="277">
+<Fecha>2017-04-09</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="278">
+<Fecha>2017-06-10</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="279">
+<Fecha>2017-05-13</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="280">
+<Fecha>2017-03-30</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="281">
+<Fecha>2017-04-26</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="282">
+<Fecha>2017-06-21</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="283">
+<Fecha>2017-06-26</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="284">
+<Fecha>2017-04-20</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="285">
+<Fecha>2017-03-23</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="286">
+<Fecha>2017-05-01</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="287">
+<Fecha>2017-03-27</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="288">
+<Fecha>2017-04-26</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="289">
+<Fecha>2017-04-23</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="290">
+<Fecha>2017-06-18</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="291">
+<Fecha>2017-04-24</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="292">
+<Fecha>2017-04-30</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="293">
+<Fecha>2017-06-19</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="294">
+<Fecha>2017-05-27</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="295">
+<Fecha>2017-05-24</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="296">
+<Fecha>2017-05-04</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="297">
+<Fecha>2017-03-29</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="298">
+<Fecha>2017-05-10</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="299">
+<Fecha>2017-06-06</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="300">
+<Fecha>2017-03-29</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="301">
+<Fecha>2017-04-04</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="302">
+<Fecha>2017-05-21</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="303">
+<Fecha>2017-05-03</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="304">
+<Fecha>2017-05-18</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="305">
+<Fecha>2017-04-28</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="306">
+<Fecha>2017-05-18</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="307">
+<Fecha>2017-06-27</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="308">
+<Fecha>2017-05-08</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="309">
+<Fecha>2017-05-02</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="310">
+<Fecha>2017-05-22</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="311">
+<Fecha>2017-05-21</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="312">
+<Fecha>2017-04-30</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="313">
+<Fecha>2017-06-08</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="314">
+<Fecha>2017-05-31</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="315">
+<Fecha>2017-05-23</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="316">
+<Fecha>2017-04-10</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="317">
+<Fecha>2017-04-08</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="318">
+<Fecha>2017-05-20</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="319">
+<Fecha>2017-04-09</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="320">
+<Fecha>2017-05-01</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="321">
+<Fecha>2017-06-29</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="322">
+<Fecha>2017-05-07</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="323">
+<Fecha>2017-06-23</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="324">
+<Fecha>2017-06-26</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="325">
+<Fecha>2017-06-23</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="326">
+<Fecha>2017-06-05</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="327">
+<Fecha>2017-05-05</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="328">
+<Fecha>2017-06-02</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="329">
+<Fecha>2017-04-06</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="330">
+<Fecha>2017-05-24</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="331">
+<Fecha>2017-03-24</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="332">
+<Fecha>2017-04-17</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="333">
+<Fecha>2017-03-21</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="334">
+<Fecha>2017-03-21</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="335">
+<Fecha>2017-04-20</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="336">
+<Fecha>2017-05-18</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="337">
+<Fecha>2017-06-02</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="338">
+<Fecha>2017-05-04</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="339">
+<Fecha>2017-05-15</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="340">
+<Fecha>2017-04-25</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="341">
+<Fecha>2017-06-19</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="342">
+<Fecha>2017-05-14</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="343">
+<Fecha>2017-05-27</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="344">
+<Fecha>2017-05-07</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="345">
+<Fecha>2017-06-10</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="346">
+<Fecha>2017-05-01</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="347">
+<Fecha>2017-05-05</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="348">
+<Fecha>2017-06-10</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="349">
+<Fecha>2017-05-20</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="350">
+<Fecha>2017-03-17</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="351">
+<Fecha>2017-04-17</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="352">
+<Fecha>2017-05-27</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="353">
+<Fecha>2017-06-02</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="354">
+<Fecha>2017-04-11</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="355">
+<Fecha>2017-03-17</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="356">
+<Fecha>2017-04-13</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="357">
+<Fecha>2017-03-24</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="358">
+<Fecha>2017-06-15</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="359">
+<Fecha>2017-05-09</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="360">
+<Fecha>2017-06-17</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="361">
+<Fecha>2017-03-24</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="362">
+<Fecha>2017-03-21</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="363">
+<Fecha>2017-05-31</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="364">
+<Fecha>2017-05-25</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="365">
+<Fecha>2017-05-07</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="366">
+<Fecha>2017-06-29</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="367">
+<Fecha>2017-06-02</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="368">
+<Fecha>2017-06-21</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="369">
+<Fecha>2017-06-20</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="370">
+<Fecha>2017-04-26</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="371">
+<Fecha>2017-03-25</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="372">
+<Fecha>2017-05-14</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="373">
+<Fecha>2017-06-26</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="374">
+<Fecha>2017-04-09</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="375">
+<Fecha>2017-05-28</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="376">
+<Fecha>2017-04-14</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="377">
+<Fecha>2017-06-25</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="378">
+<Fecha>2017-05-23</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="379">
+<Fecha>2017-04-08</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="380">
+<Fecha>2017-05-04</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="381">
+<Fecha>2017-04-21</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="382">
+<Fecha>2017-03-20</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="383">
+<Fecha>2017-06-08</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="384">
+<Fecha>2017-03-28</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="385">
+<Fecha>2017-06-09</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="386">
+<Fecha>2017-04-14</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="387">
+<Fecha>2017-05-04</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="388">
+<Fecha>2017-06-16</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="389">
+<Fecha>2017-06-23</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="390">
+<Fecha>2017-06-09</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="391">
+<Fecha>2017-04-24</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="392">
+<Fecha>2017-05-30</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="393">
+<Fecha>2017-04-09</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="394">
+<Fecha>2017-05-09</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="395">
+<Fecha>2017-04-02</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="396">
+<Fecha>2017-04-12</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="397">
+<Fecha>2017-05-26</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="398">
+<Fecha>2017-05-04</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="399">
+<Fecha>2017-03-26</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="400">
+<Fecha>2017-06-19</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="401">
+<Fecha>2017-06-09</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="402">
+<Fecha>2017-04-12</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="403">
+<Fecha>2017-03-21</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="404">
+<Fecha>2017-06-16</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="405">
+<Fecha>2017-04-05</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="406">
+<Fecha>2017-04-19</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="407">
+<Fecha>2017-06-02</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="408">
+<Fecha>2017-05-15</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="409">
+<Fecha>2017-04-21</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="410">
+<Fecha>2017-04-15</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="411">
+<Fecha>2017-05-11</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="412">
+<Fecha>2017-04-19</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="413">
+<Fecha>2017-06-26</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="414">
+<Fecha>2017-04-05</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="415">
+<Fecha>2017-05-30</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="416">
+<Fecha>2017-04-07</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="417">
+<Fecha>2017-06-07</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="418">
+<Fecha>2017-03-17</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="419">
+<Fecha>2017-05-14</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="420">
+<Fecha>2017-05-15</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="421">
+<Fecha>2017-04-16</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="422">
+<Fecha>2017-04-08</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="423">
+<Fecha>2017-04-15</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="424">
+<Fecha>2017-05-15</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="425">
+<Fecha>2017-04-05</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="426">
+<Fecha>2017-05-18</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="427">
+<Fecha>2017-06-11</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="428">
+<Fecha>2017-05-20</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="429">
+<Fecha>2017-04-15</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="430">
+<Fecha>2017-05-21</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="431">
+<Fecha>2017-03-20</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="432">
+<Fecha>2017-03-21</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="433">
+<Fecha>2017-05-17</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="434">
+<Fecha>2017-06-03</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="435">
+<Fecha>2017-04-06</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="436">
+<Fecha>2017-04-29</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="437">
+<Fecha>2017-06-05</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="438">
+<Fecha>2017-04-23</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="439">
+<Fecha>2017-03-16</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="440">
+<Fecha>2017-06-09</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="441">
+<Fecha>2017-04-28</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="442">
+<Fecha>2017-05-17</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="443">
+<Fecha>2017-05-07</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="444">
+<Fecha>2017-04-24</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="445">
+<Fecha>2017-06-16</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="446">
+<Fecha>2017-03-21</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="447">
+<Fecha>2017-05-05</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="448">
+<Fecha>2017-05-08</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="449">
+<Fecha>2017-04-19</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="450">
+<Fecha>2017-03-18</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="451">
+<Fecha>2017-04-02</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="452">
+<Fecha>2017-06-19</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="453">
+<Fecha>2017-04-15</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="454">
+<Fecha>2017-05-04</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="455">
+<Fecha>2017-04-22</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="456">
+<Fecha>2017-03-24</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="457">
+<Fecha>2017-04-15</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="458">
+<Fecha>2017-04-01</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="459">
+<Fecha>2017-05-13</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="460">
+<Fecha>2017-05-16</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="461">
+<Fecha>2017-05-09</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="462">
+<Fecha>2017-04-01</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="463">
+<Fecha>2017-03-30</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="464">
+<Fecha>2017-05-13</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="465">
+<Fecha>2017-06-26</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="466">
+<Fecha>2017-04-07</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="467">
+<Fecha>2017-06-08</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="468">
+<Fecha>2017-03-18</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="469">
+<Fecha>2017-05-06</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="470">
+<Fecha>2017-06-14</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="471">
+<Fecha>2017-05-17</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="472">
+<Fecha>2017-06-18</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="473">
+<Fecha>2017-03-19</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="474">
+<Fecha>2017-03-15</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="475">
+<Fecha>2017-03-19</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="476">
+<Fecha>2017-06-12</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="477">
+<Fecha>2017-04-24</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="478">
+<Fecha>2017-05-15</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="479">
+<Fecha>2017-05-05</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="480">
+<Fecha>2017-04-20</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="481">
+<Fecha>2017-06-16</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="482">
+<Fecha>2017-05-26</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="483">
+<Fecha>2017-03-20</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="484">
+<Fecha>2017-05-09</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="485">
+<Fecha>2017-06-25</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="486">
+<Fecha>2017-06-26</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="487">
+<Fecha>2017-03-22</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="488">
+<Fecha>2017-04-16</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="489">
+<Fecha>2017-03-28</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="490">
+<Fecha>2017-06-26</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="491">
+<Fecha>2017-05-28</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="492">
+<Fecha>2017-03-20</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="493">
+<Fecha>2017-03-25</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="494">
+<Fecha>2017-03-29</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="495">
+<Fecha>2017-05-27</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="496">
+<Fecha>2017-04-04</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="497">
+<Fecha>2017-03-27</Fecha>
+<Presente>Si</Presente>
+</Asistencia>
+<Asistencia idAsistencia="498">
+<Fecha>2017-05-15</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+<Asistencia idAsistencia="499">
+<Fecha>2017-04-28</Fecha>
+<Presente>No</Presente>
+</Asistencia>
+</Asistencias>
