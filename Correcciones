@@ -1,3 +1,4 @@
 E-R
-  Agrupación: Fecha de término
-  CondicionSalud: es posible que el estudiante, se recupere de la condicion
+  Agrupación: Fecha de término.
+  CondicionSalud: es posible que el estudiante, se recupere de la condicion.
+  Todas las tablas con fecha de inicio: como puede haber un inicio, es posible que se exista un termino.
