@@ -1,4 +1,5 @@
 E-R
   Agrupación: Fecha de término.
-  CondicionSalud: es posible que el estudiante, se recupere de la condicion.
-  Todas las tablas con fecha de inicio: como puede haber un inicio, es posible que se exista un termino.
+  CondicionSalud: Es posible que el estudiante, se recupere de la condicion.
+  Todas las tablas con fecha de inicio: Como puede haber un inicio, es posible que se exista un termino.
+  Asistencia y Asignatura: Agregar una tabla entre asistencia y asignatura, esta toma la fecha de la clase a la que se asiste, permitiendo que no se repita el dato.
