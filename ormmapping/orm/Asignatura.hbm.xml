@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+Licensee: Universidad de La Frontera
+License Type: Academic
+-->
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+	<class name="orm.Asignatura" table="asignatura" lazy="false">
+		<id name="idAsignatura" column="idAsignatura" type="integer" unsaved-value="0">
+			<generator class="identity">
+			</generator>
+		</id>
+		<property name="nombre" column="Nombre" type="string" length="45" not-null="true" lazy="false"/>
+		<property name="horasIntraAula" column="HorasIntraAula" type="integer" length="11" not-null="true" lazy="false"/>
+		<property name="horasExtraAula" column="HorasExtraAula" type="integer" length="11" not-null="true" lazy="false"/>
+		<property name="duracion" column="Duracion" type="integer" length="11" not-null="true" lazy="false"/>
+		<property name="creditos" column="Creditos" type="integer" length="11" not-null="true" lazy="false"/>
+		<property name="descripcion" column="Descripcion" type="text" not-null="true" lazy="false"/>
+		<property name="aprendizajeEsperado" column="AprendizajeEsperado" type="text" not-null="true" lazy="false"/>
+		<property name="librosRecomendados" column="LibrosRecomendados" type="text" not-null="true" lazy="false"/>
+		<property name="semestre" column="Semestre" type="integer" length="11" not-null="true" lazy="false"/>
+		<property name="anio" column="Anio" type="date" not-null="true" lazy="false"/>
+		<set name="ORM_Profesor_idProfesor" table="asignatura_has_profesor" lazy="true" cascade="save-update,lock">
+			<key column="Asignatura_idAsignatura" not-null="true"/>
+			<many-to-many column="Profesor_idProfesor" class="orm.Profesor">
+			</many-to-many>
+		</set>
+		<set name="ORM_Evaluacion" lazy="true" cascade="save-update,lock" inverse="true">
+			<key column="Asignatura_idAsignatura" not-null="true"/>
+			<one-to-many class="orm.Evaluacion"/>
+		</set>
+		<set name="ORM_Clase" lazy="true" cascade="save-update,lock" inverse="true">
+			<key column="asignaturaidAsignatura" not-null="true"/>
+			<one-to-many class="orm.Clase"/>
+		</set>
+	</class>
+</hibernate-mapping>

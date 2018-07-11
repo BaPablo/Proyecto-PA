@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+Licensee: Universidad de La Frontera
+License Type: Academic
+-->
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+	<class name="orm.Fechaevaluacion" table="fechaevaluacion" lazy="false">
+		<id name="idFechaEvaluacion" column="idFechaEvaluacion" type="integer" unsaved-value="0">
+			<generator class="identity">
+			</generator>
+		</id>
+		<property name="fechaInicio" column="FechaInicio" type="date" not-null="true" lazy="false"/>
+		<property name="fechaTermino" column="FechaTermino" type="date" not-null="true" lazy="false"/>
+		<property name="horaInicio" column="HoraInicio" type="time" length="8" not-null="true" lazy="false"/>
+		<property name="horaTermino" column="HoraTermino" type="time" length="8" not-null="true" lazy="false"/>
+		<set name="ORM_Evaluacion" lazy="true" cascade="save-update,lock" inverse="true">
+			<key column="FechaEvaluacion_idFechaEvaluacion" not-null="true"/>
+			<one-to-many class="orm.Evaluacion"/>
+		</set>
+	</class>
+</hibernate-mapping>

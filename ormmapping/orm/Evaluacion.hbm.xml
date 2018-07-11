@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+Licensee: Universidad de La Frontera
+License Type: Academic
+-->
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+	<class name="orm.Evaluacion" table="evaluacion" lazy="false">
+		<id name="idEvaluacion" column="idEvaluacion" type="integer" unsaved-value="0">
+			<generator class="identity">
+			</generator>
+		</id>
+		<property name="nombre" column="Nombre" type="string" length="45" not-null="true" lazy="false"/>
+		<property name="tipoEvaluacion" column="TipoEvaluacion" type="string" length="45" not-null="true" lazy="false"/>
+		<property name="descripcion" column="Descripcion" type="text" not-null="true" lazy="false"/>
+		<property name="calificacion" column="Calificacion" type="integer" length="11" not-null="true" lazy="false"/>
+		<many-to-one name="asignatura_idAsignatura" cascade="lock" column="Asignatura_idAsignatura" index="fk_Evaluacion_Asignatura1_idx" class="orm.Asignatura" not-null="true" lazy="no-proxy" access="field">
+		</many-to-one>
+		<many-to-one name="fechaEvaluacion_idFechaEvaluacion" cascade="lock" column="FechaEvaluacion_idFechaEvaluacion" index="fk_Evaluacion_FechaEvaluacion1_idx" class="orm.Fechaevaluacion" not-null="true" lazy="no-proxy" access="field">
+		</many-to-one>
+		<many-to-one name="lugar_idLugar" cascade="lock" column="Lugar_idLugar" index="fk_Evaluacion_Lugar1_idx" class="orm.Lugar" not-null="true" lazy="no-proxy" access="field">
+		</many-to-one>
+	</class>
+</hibernate-mapping>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+Licensee: Universidad de La Frontera
+License Type: Academic
+-->
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+	<class name="orm.Apoderado" table="apoderado" lazy="false">
+		<id name="idApoderado" column="idApoderado" type="integer" unsaved-value="0">
+			<generator class="identity">
+			</generator>
+		</id>
+		<property name="rutApoderado" column="RutApoderado" index="rutApoderado_UNIQUE" type="string" length="45" not-null="true" lazy="false"/>
+		<property name="primerNombre" column="PrimerNombre" type="string" length="45" not-null="true" lazy="false"/>
+		<property name="segundoNombre" column="SegundoNombre" type="string" length="45" not-null="true" lazy="false"/>
+		<property name="primerApellido" column="PrimerApellido" type="string" length="45" not-null="true" lazy="false"/>
+		<property name="segundoApellido" column="SegundoApellido" type="string" length="45" not-null="true" lazy="false"/>
+		<property name="email" column="email" type="string" length="45" not-null="true" lazy="false"/>
+		<property name="fechaNacimiento" column="FechaNacimiento" type="date" not-null="true" lazy="false"/>
+		<property name="sexo" column="Sexo" type="string" length="45" not-null="true" lazy="false"/>
+		<property name="telefonoMovil" column="TelefonoMovil" type="string" length="45" not-null="true" lazy="false"/>
+		<property name="telefonoFijo" column="TelefonoFijo" type="string" length="45" not-null="true" lazy="false"/>
+		<set name="ORM_Alumno" lazy="true" cascade="save-update,lock" inverse="true">
+			<key column="Apoderado_idApoderado" not-null="true"/>
+			<one-to-many class="orm.Alumno"/>
+		</set>
+	</class>
+</hibernate-mapping>

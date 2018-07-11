@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+Licensee: Universidad de La Frontera
+License Type: Academic
+-->
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+	<class name="orm.Profesor" table="profesor" lazy="false">
+		<id name="idProfesor" column="idProfesor" type="integer" unsaved-value="0">
+			<generator class="identity">
+			</generator>
+		</id>
+		<property name="rutProfesor" column="RutProfesor" index="rutProfesor_UNIQUE" type="string" length="11" not-null="true" lazy="false"/>
+		<property name="primerNombre" column="PrimerNombre" type="string" length="45" not-null="true" lazy="false"/>
+		<property name="segundoNombre" column="SegundoNombre" type="string" length="45" not-null="true" lazy="false"/>
+		<property name="primerApellido" column="PrimerApellido" type="string" length="45" not-null="true" lazy="false"/>
+		<property name="segundoApellido" column="SegundoApellido" type="string" length="45" not-null="true" lazy="false"/>
+		<property name="fechaNacimiento" column="FechaNacimiento" type="date" not-null="true" lazy="false"/>
+		<property name="sexo" column="Sexo" type="string" length="45" not-null="true" lazy="false"/>
+		<property name="email" column="email" type="string" length="45" not-null="true" lazy="false"/>
+		<property name="telefonoMovil" column="TelefonoMovil" type="string" length="45" not-null="true" lazy="false"/>
+		<property name="grado" column="Grado" type="string" length="45" not-null="true" lazy="false"/>
+		<property name="fechaIngreso" column="FechaIngreso" type="date" not-null="true" lazy="false"/>
+		<many-to-one name="departamento_idDepartamento" cascade="lock" column="Departamento_idDepartamento" index="fk_Profesor_Departamento1_idx" class="orm.Departamento" not-null="true" lazy="no-proxy" access="field">
+		</many-to-one>
+		<property name="fechaTermino" column="FechaTermino" type="date" not-null="true" lazy="false"/>
+		<set name="ORM_Asignatura_idAsignatura" table="asignatura_has_profesor" lazy="true" cascade="save-update,lock" inverse="true">
+			<key column="Profesor_idProfesor" not-null="true"/>
+			<many-to-many column="Asignatura_idAsignatura" class="orm.Asignatura">
+			</many-to-many>
+		</set>
+	</class>
+</hibernate-mapping>

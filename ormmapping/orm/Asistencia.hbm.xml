@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+Licensee: Universidad de La Frontera
+License Type: Academic
+-->
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+	<class name="orm.Asistencia" table="asistencia" lazy="false">
+		<composite-id>
+			<key-property name="idAsistencia" column="idAsistencia" type="integer"/>
+			<key-many-to-one name="ORM_Alumno_idAlumno" column="Alumno_idAlumno" class="orm.Alumno">
+			</key-many-to-one>
+		</composite-id>
+		<property name="presente" column="Presente" type="byte" length="4" not-null="true" lazy="false"/>
+		<many-to-one name="claseidClase" cascade="lock" column="claseidClase" class="orm.Clase" not-null="true" lazy="no-proxy" access="field">
+		</many-to-one>
+	</class>
+</hibernate-mapping>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+Licensee: Universidad de La Frontera
+License Type: Academic
+-->
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+	<class name="orm.Condicionsalud" table="condicionsalud" lazy="false">
+		<id name="idCondicionSalud" column="idCondicionSalud" type="integer" unsaved-value="0">
+			<generator class="identity">
+			</generator>
+		</id>
+		<property name="nombre" column="Nombre" type="string" length="45" not-null="true" lazy="false"/>
+		<property name="descripcion" column="Descripcion" type="string" length="45" not-null="true" lazy="false"/>
+		<property name="fechaInicio" column="FechaInicio" type="timestamp" length="19" not-null="true" lazy="false"/>
+		<property name="fechaTermino" column="FechaTermino" type="date" not-null="false" lazy="false"/>
+		<set name="ORM_Alumno_idAlumno" table="alumno_has_condicionsalud" lazy="true" cascade="save-update,lock" inverse="true">
+			<key column="CondicionSalud_idCondicionSalud" not-null="true"/>
+			<many-to-many column="Alumno_idAlumno" class="orm.Alumno">
+			</many-to-many>
+		</set>
+	</class>
+</hibernate-mapping>

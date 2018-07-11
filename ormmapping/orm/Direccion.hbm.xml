@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+Licensee: Universidad de La Frontera
+License Type: Academic
+-->
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+	<class name="orm.Direccion" table="direccion" lazy="false">
+		<id name="idDireccion" column="idDireccion" type="integer" unsaved-value="0">
+			<generator class="identity">
+			</generator>
+		</id>
+		<property name="calle" column="Calle" type="string" length="45" not-null="true" lazy="false"/>
+		<property name="comuna" column="Comuna" type="string" length="45" not-null="true" lazy="false"/>
+		<property name="ciudad" column="Ciudad" type="string" length="45" not-null="true" lazy="false"/>
+		<property name="region" column="Region" type="string" length="45" not-null="true" lazy="false"/>
+		<property name="tipoDireccion" column="TipoDireccion" type="string" length="45" not-null="true" lazy="false"/>
+		<set name="ORM_Alumno" lazy="true" cascade="save-update,lock" inverse="true">
+			<key column="Direccion_idDireccion" not-null="true"/>
+			<one-to-many class="orm.Alumno"/>
+		</set>
+	</class>
+</hibernate-mapping>
